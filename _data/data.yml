@@ -311,15 +311,17 @@ publications:
       - title: "CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse (to appear)"
         authors: Seunghoon Woo, Sunghan Park, Seulbae Kim, Heejo Lee, Hakjoo Oh
         conference: 43rd International Conference on Software Engineering (ICSE 2021)
+        paperlink: 
 
       - title: "IoTcube: an automated analysis platform for finding security vulnerabilities"
         authors: Seulbae Kim, Seunghoon Woo, Heejo Lee, Hakjoo Oh
         conference: 38th IEEE Symposium on Poster presented at Security and Privacy (2017)
-
+        paperlink: 
+          
       - title: "VUDDY: A Scalable Approach for Vulnerable Code Clone Discovery"
         authors: Seulbae Kim, Seunghoon Woo, Heejo Lee, Hakjoo Oh
         conference: 38th IEEE Symposium on Security and Privacy (S&P 2017)
-        
+        paperlink: 
 
 skills:
     title: Skills &amp; Proficiency
