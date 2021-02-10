@@ -10,6 +10,9 @@
     {%for cve in cves %}
     <li>
       {{ cve.ID }}
+      {% if cve.with %}
+        <span class="lang-desc">({{ cve.with }})</span>
+      {% endif %}
     </li>
     {% endfor %}
   </ul>
