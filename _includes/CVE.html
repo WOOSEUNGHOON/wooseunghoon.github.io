@@ -9,7 +9,7 @@
   <ul class="list-unstyled interests-list">
     {%for cve in cves %}
     <li>
-      {{ cve.ID }}
+      <a href="https://nvd.nist.gov/vuln/detail/{{ cve.ID }}">{{ cve.ID }}</a>
       {% if cve.with %}
         <span class="lang-desc">({{ cve.with }})</span>
       {% endif %}
