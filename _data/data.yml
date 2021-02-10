@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Seunghoon Woo
     tagline: Computer & Communication Security Laboratory
-    advisor: Prof. Heejo Lee
+    advisor: "Advisor: Prof. Heejo Lee"
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -27,13 +27,10 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Fluent
+        level: Intermediate
 
-      - idiom: Italian
+      - idiom: Korean
         level: Native
-
-      - idiom: German
-        level: Colloquial
 
     interests:
       - item: Guitar
