@@ -44,10 +44,15 @@ sidebar:
 
     interests:
       - item: Open-source Software Security
-        sub: 
-
-      - item: Vulnerability Detection and Analysis
         sub:
+
+      - item: Software Composition Analysis
+        sub:
+
+      - item: Vulnerability Detection
+        sub:
+
+
 
 
 patents:
