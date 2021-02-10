@@ -100,12 +100,12 @@ news:
 education:
     - degree: M.S & Ph.D Integrated Course in Computer & Communication Security Laboratory
       university: Korea University
-      time: 2016. Sep. - current
+      time: Sep 2016 - Present
       details: |
       
     - degree: Bachelor of Computer Science and Engineering
       university: Korea University
-      time: 2010. Mar. - 2016. Feb.
+      time: Mar 2010 - Feb 2016
       details: |
      
     # - degree: PhD in Computer vision and Machine learning
@@ -134,102 +134,93 @@ education:
     #   details: |
 
 
-educationcomplete:
-    - degree: Applied Scientist full-time at AWS
-      university: Germany
-      time: 2020 Oct - current
-      details: |
+# educationcomplete:
+#     - degree: Applied Scientist full-time at AWS
+#       university: Germany
+#       time: 2020 Oct - current
+#       details: |
       
-    - degree: Applied Scientists Intern at AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 July - Dec
-      details: |
+#     - degree: Applied Scientists Intern at AWS
+#       university: P. Perona, Pasadena, CA, USA
+#       time: 2019 July - Dec
+#       details: |
 
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - 2020
-      details: |
-        Unsupervised deep learning for automatic behavior analysis
+#     - degree: PhD in Computer vision and Machine learning
+#       university: Heidelberg University
+#       time: 2015 - 2020
+#       details: |
+#         Unsupervised deep learning for automatic behavior analysis
 
-          - Unsupervised learning
-          - Representaion learning
-          - Automatic Behavior Analysis
+#           - Unsupervised learning
+#           - Representaion learning
+#           - Automatic Behavior Analysis
 
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
-        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+#     - degree: Internship (Master Thesis)
+#       university: Tobii
+#       time: 2014 - 2015
+#       details: |
+#         Master thesis topic Hand gesture classification by Deep learning using infrared camera 
 
-          - Deep learning
-          - Hand Gesture
+#           - Deep learning
+#           - Hand Gesture
 
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
-        Master degree in Computer Science and Artificial Intelligence
+#     - degree: Master Degree
+#       university: KTH (Stockholm, Sweden)
+#       time: 2013 - 2015
+#       details: |
+#         Master degree in Computer Science and Artificial Intelligence
 
-          - Artificial Intelligence
-          - Machine Learning
-          - Computer Vision
+#           - Artificial Intelligence
+#           - Machine Learning
+#           - Computer Vision
     
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-        Master degree in Software Engineering
+#     - degree: Master Degree
+#       university: Politecnico di Torino (Torino, Italy)
+#       time: 2012 - 2015
+#       details: |
+#         Master degree in Software Engineering
     
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
+#     - degree: Bachelor Degree
+#       university: Politecnico di Torino (Torino, Italy)
+#       time: 2009 - 2012
+#       details: |
+#         Master degree in Computer Engineering
+
+
+experiences:
+    - role: Researcher & Developer
+      time: 2016 Mar - Present
+      company: Center for Software Security and Assurance(CSSA), Korea University
       details: |
-        Master degree in Computer Engineering
+        - Developed the automated software vulnerable-code clone detection tool (https://iotcube.net).
+
+    - role: Research Intern
+      time: 2017 Jan - 2017 Feb
+      company: "National University of Singapore (Supervisor: Prof. Minsuk Kang), Singapore"
+      details: |
+        - Developed a basic DDoS attack simulation tool.
+    
+    - role: Engineer
+      time: Dec 2015 - Feb 2016
+      company: Samsung Electronics, Suwon, Korea
+      details: |
+        - Worked on improving the Android application that supports communication between Smart TV and Smartphone. 
+
+    - role: Core developer
+      time: 2015 Jan - 2015 Sep
+      company: DoDotDo (startup)
+      details: |
+        - Developed a smart watch-based hotel management system.
+
+    - role: Student intern
+      time: Jun 2014 - Aug 2014
+      company: Samsung Electronics, Suwon, Korea
+      details: |
+        - Developed a multi-platformed application supporting the connection between Smart TV and other devices (i.e., smartphone).
 
 
-#experiences:
-    #- role: Lead Developer
-      #time: 2015 - Present
-      #company: Startup Hubs, San Francisco
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        #enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        #error sit voluptatem accusantium doloremque laudantium, totam rem
-        #aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        #architecto beatae vitae dicta sunt explicabo.
+  
 
-          #- Bullet point
-          #- Bullet point
-
-    #- role: Senior Software Engineer
-      #time: 2014 - 2015
-      #company: Google, London
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem.
-
-          #- Bullet point
-          #- Bullet point
-
-    #- role: UI Developer
-      #time: 2012 - 2014
-      #company: Amazon, London
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem.
-
-          #- Bullet point
-          #- Bullet point
 
 #projects:
     #title: Projects
@@ -268,6 +259,14 @@ publications:
       - title: "CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse (to appear)"
         authors: Seunghoon Woo, Sunghan Park, Seulbae Kim, Heejo Lee, Hakjoo Oh
         conference: 43rd International Conference on Software Engineering (ICSE 2021)
+
+      - title: "Iotcube: an automated analysis platform for finding security vulnerabilities"
+        authors: Seulbae Kim, Seunghoon Woo, Heejo Lee, Hakjoo Oh
+        conference: 38th IEEE Symposium on Poster presented at Security and Privacy (2017)
+
+      - title: "VUDDY: A Scalable Approach for Vulnerable Code Clone Discovery"
+        authors: Seulbae Kim, Seunghoon Woo, Heejo Lee, Hakjoo Oh
+        conference: 38th IEEE Symposium on Security and Privacy (S&P 2017)
         
 
 skills:
