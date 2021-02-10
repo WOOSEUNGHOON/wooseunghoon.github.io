@@ -214,27 +214,23 @@ experiences:
     - role: Center for Software Security and Assurance
       time: 2016 Mar - Present
       company: Researcher & Developer
-      details: |
-      Developed the automated software vulnerable-code clone detection tool (https://iotcube.net).
+      details: Developed the automated software vulnerable-code clone detection tool (https://iotcube.net).
 
     - role: National University of Singapore
       time: 2017 Jan - 2017 Feb
       company: "Research Intern (Advisor: Prof. Minsuk Kang)"
-      details: |
-      Developed a basic DDoS attack simulation tool.
+      details: Developed a basic DDoS attack simulation tool.
     
     - role: DoDotDo (startup) 
       time: 2015 Jan - 2015 Sep
       company: Core developer
-      details: |
-      Developed a smart watch-based hotel management system.
+      details: Developed a smart watch-based hotel management system.
 
 
     - role: Samsung Electronics, Suwon, Korea 
       time: Jun 2014 - Feb 2016
       company: Student intern (Jun 2014 - Aug 2014) and Engineer (Dec 2015 - Feb 2016)
-      details: |
-      Developed a multi-platformed application supporting the connection between Smart TV and other devices (i.e., smartphone).
+      details: Developed a multi-platformed application supporting the connection between Smart TV and other devices (i.e., smartphone).
 
 
 
