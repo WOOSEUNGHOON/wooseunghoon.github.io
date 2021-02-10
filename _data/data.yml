@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: seunghoonwoo@korea.ac.kr
-    phone: 
+    phone: (+82) 10-8147-9308
     website: #bbrattoli.github.io/publications/ #do not add http://
     linkedin: #biagiobrattoli
     github: WOOSEUNGHOON
@@ -208,7 +208,7 @@ experiences:
 
 
     - role: Samsung Electronics, Suwon, Korea 
-      time: -
+      time:  - Feb 2016
       company: Student intern (Jun 2014 - Aug 2014) and Engineer (Dec 2015 - Feb 2016)
       details: |
         - Worked on improving the Android application that supports communication between Smart TV and Smartphone. 
