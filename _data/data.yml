@@ -188,35 +188,65 @@ education:
 
 
 experiences:
-    - role: Researcher & Developer
+    - role: Center for Software Security and Assurance (CSSA)
       time: 2016 Mar - Present
-      company: Center for Software Security and Assurance(CSSA), Korea University
+      company: Researcher & Developer
       details: |
         - Developed the automated software vulnerable-code clone detection tool (https://iotcube.net).
 
-    - role: Research Intern
+    - role: National University of Singapore
       time: 2017 Jan - 2017 Feb
-      company: "National University of Singapore (Supervisor: Prof. Minsuk Kang), Singapore"
+      company: "Research Intern (Supervisor: Prof. Minsuk Kang)"
       details: |
         - Developed a basic DDoS attack simulation tool.
     
-    - role: Engineer
-      time: Dec 2015 - Feb 2016
-      company: Samsung Electronics, Suwon, Korea
-      details: |
-        - Worked on improving the Android application that supports communication between Smart TV and Smartphone. 
-
-    - role: Core developer
+    - role: DoDotDo (startup) 
       time: 2015 Jan - 2015 Sep
-      company: DoDotDo (startup)
+      company: Core developer
       details: |
         - Developed a smart watch-based hotel management system.
 
-    - role: Student intern
-      time: Jun 2014 - Aug 2014
-      company: Samsung Electronics, Suwon, Korea
+
+    - role: Samsung Electronics, Suwon, Korea 
+      time: -
+      company: Student intern (Jun 2014 - Aug 2014) and Engineer (Dec 2015 - Feb 2016)
       details: |
+        - Worked on improving the Android application that supports communication between Smart TV and Smartphone. 
         - Developed a multi-platformed application supporting the connection between Smart TV and other devices (i.e., smartphone).
+
+
+
+
+
+    # - role: Researcher & Developer
+    #   time: 2016 Mar - Present
+    #   company: Center for Software Security and Assurance(CSSA), Korea University
+    #   details: |
+    #     - Developed the automated software vulnerable-code clone detection tool (https://iotcube.net).
+
+    # - role: Research Intern
+    #   time: 2017 Jan - 2017 Feb
+    #   company: "National University of Singapore (Supervisor: Prof. Minsuk Kang), Singapore"
+    #   details: |
+    #     - Developed a basic DDoS attack simulation tool.
+    
+    # - role: Engineer
+    #   time: Dec 2015 - Feb 2016
+    #   company: Samsung Electronics, Suwon, Korea
+    #   details: |
+    #     - Worked on improving the Android application that supports communication between Smart TV and Smartphone. 
+
+    # - role: Core developer
+    #   time: 2015 Jan - 2015 Sep
+    #   company: DoDotDo (startup)
+    #   details: |
+    #     - Developed a smart watch-based hotel management system.
+
+    # - role: Student intern
+    #   time: Jun 2014 - Aug 2014
+    #   company: Samsung Electronics, Suwon, Korea
+    #   details: |
+    #     - Developed a multi-platformed application supporting the connection between Smart TV and other devices (i.e., smartphone).
 
 
   
