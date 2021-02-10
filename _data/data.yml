@@ -24,6 +24,11 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    
+    cves:
+      - ID: CVE-2020-14147
+      - ID: CVE-2020-20412 (with Seongkyong Kwon)
+      - ID: CVE-2020-35376 (with Seongkyong Kwon)
 
     languages:
       - idiom: English

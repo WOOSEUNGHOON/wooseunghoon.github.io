@@ -1,0 +1,18 @@
+{% assign cves = site.data.data.sidebar.cves %}
+{% if cves %}
+<div class="languages-container container-block">
+
+  <h2 class="container-block-title">
+    CVE assignment
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {%for cve in cves %}
+    <li>
+      {{ cve.ID }}
+    </li>
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}
