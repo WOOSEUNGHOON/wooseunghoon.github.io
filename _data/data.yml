@@ -41,15 +41,21 @@ sidebar:
       - idiom: Korean
         level: Native
 
-    interests:
-      - item: Guitar
-        link:
 
-      - item: Basketball
-        link:
+    interest:
+      - item: Open-source Software Security
+      - item: Vulnerability Detection and Analysis
 
-      - item: Biking
-        link:
+
+patents:
+  title: Patents
+  intro: |
+    
+
+  papers:
+    - title: "METHOD FOR IDENTIFYING OPEN-SOURCE SOFTWARE COMPONENTS AT THE SOURCE-CODE LEVEL"
+      authors: Heejo Lee, Seunghoon Woo (10-2021-0010585, Jan 2021)
+
 
 career-profile:
     title: Career-profile
