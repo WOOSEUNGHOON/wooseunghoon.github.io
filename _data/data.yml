@@ -320,7 +320,7 @@ publications:
 
       - title: "IoTcube: an automated analysis platform for finding security vulnerabilities"
         authors: Seulbae Kim, Seunghoon Woo, Heejo Lee, Hakjoo Oh
-        conference: 38th IEEE Symposium on Poster presented at Security and Privacy (2017)
+        conference: 38th IEEE Symposium on Poster presented at Security and Privacy (S&P Poster 2017)
         paperlink: 
           
       - title: "VUDDY: A Scalable Approach for Vulnerable Code Clone Discovery"
