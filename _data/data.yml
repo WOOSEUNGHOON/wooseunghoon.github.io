@@ -313,6 +313,11 @@ publications:
         conference: 43rd International Conference on Software Engineering (ICSE 2021)
         paperlink: 
 
+      - title: "OctoPoCs: Automatic Verification of Propagated Vulnerable Code Using Reformed Proofs of Concept (to appear)"
+        authors: Seongkyeong Kwon, Seunghoon Woo, Gangmo Seong, Heejo Lee
+        conference: 51st IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2021)
+        paperlink: 
+
       - title: "IoTcube: an automated analysis platform for finding security vulnerabilities"
         authors: Seulbae Kim, Seunghoon Woo, Heejo Lee, Hakjoo Oh
         conference: 38th IEEE Symposium on Poster presented at Security and Privacy (2017)
