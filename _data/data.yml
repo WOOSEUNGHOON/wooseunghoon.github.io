@@ -308,6 +308,11 @@ publications:
       
 
     papers:
+      - title: "V0Finder: Discovering the Correct Origin of Publicly Reported Software Vulnerabilities (to appear)"
+        authors: Seunghoon Woo, Dongwook Lee, Sunghan Park, Heejo Lee, Sven Dietrich
+        conference: 30th USENIX Security Symposium (Security 2021)
+        paperlink: 
+
       - title: "CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse (to appear)"
         authors: Seunghoon Woo, Sunghan Park, Seulbae Kim, Heejo Lee, Hakjoo Oh
         conference: 43rd International Conference on Software Engineering (ICSE 2021)
