@@ -1,6 +1,6 @@
 {% assign contributions = site.data.data.contributions %}
 {% if contributions %}
-<section class="section publications-section">
+<section class="section contributions-section">
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
@@ -16,10 +16,10 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for publication in contributions.papers %}
+  {% for contribution in contributions.papers %}
   <div class="item">
-    <div class="patent-title">{{ publication.title }}</div>
-    <div class="patent-authors">{{ publication.authors }}</div>
+    <div class="contribution-title">{{ contribution.title }}</div>
+    <div class="contribution-authors">{{ contribution.authors }}</div>
   </div><!--//item-->
   {% endfor %}
 
