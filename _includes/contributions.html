@@ -1,0 +1,27 @@
+{% assign contributions = site.data.data.contributions %}
+{% if contributions %}
+<section class="section publications-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-handshake fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ contributions.title }}
+  </h2>
+
+  {% if contributions.intro %}
+  <div class="intro">
+    {{ contributions.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for publication in contributions.papers %}
+  <div class="item">
+    <div class="patent-title">{{ publication.title }}</div>
+    <div class="patent-authors">{{ publication.authors }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}

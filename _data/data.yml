@@ -52,7 +52,20 @@ sidebar:
       - item: Vulnerability Detection
         sub:
 
+contributions:
+  title: Open-Source Contributions
+  intro: |
+    
 
+  papers:
+    - title: Redis. Fixing the Security Vulnerability
+      authors: https://github.com/redis/redis (Feb 2020)
+
+    - title: Stepmania. Fixing the Security Vulnerability (with Seongkyeong Kwon)
+      authors: https://github.com/stepmania/stepmania (Sep 2019)
+
+    - title: Xpdf. Fixing the Security Vulnerability (with Seongkyeong Kwon)
+      authors: https://www.xpdfreader.com (Dec 2020)
 
 
 patents:
