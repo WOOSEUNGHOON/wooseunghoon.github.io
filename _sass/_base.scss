@@ -235,6 +235,14 @@ p {
         color: #9a9a9a;
         margin-bottom: 1px;
     }
+    .publication-authors strong {
+        font-size: 14px;
+        color: #9a9a9a;
+        margin-bottom: 1px;
+        text-decoration: underline;
+        text-underline-position:under;
+    }
+
     .publication-conference {
         font-size: 14px;
     }
