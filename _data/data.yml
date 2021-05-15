@@ -327,7 +327,7 @@ publications:
         paperlink: 
 
       - title: "CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse (to appear)"
-        authors: Seunghoon Woo, Sunghan Park, Seulbae Kim, Heejo Lee, Hakjoo Oh
+        authors: <strong>Seunghoon Woo</strong>, Sunghan Park, Seulbae Kim, Heejo Lee, Hakjoo Oh
         conference: 43rd International Conference on Software Engineering (ICSE 2021)
         paperlink: 
 
