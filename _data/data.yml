@@ -298,11 +298,11 @@ projects:
 
       - title: A Study on Verifying Open-Source Software Reliability for Reinforcing Operating System Security
         time: Researcher (Apr 2020 - Oct 2020)
-        role: --
+        role: -
 
       - title: Development of DNS-based lightweight framework for automatic response to abnormal network behavior
         time: Researcher & Developer (May 2018 - Oct 2018)
-        role: --
+        role: -
 
       - title: "NICOP-Smokescreen : A study of a DDoS-resilient Network Architecture through Traffic Classification and Isolation"
         time: Project Manager (Sep 2017 - Sep 2019)
