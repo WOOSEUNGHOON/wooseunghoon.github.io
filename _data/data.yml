@@ -225,17 +225,17 @@ education:
 
 experiences:
     - role: Center for Software Security and Assurance
-      time: 2016 Mar - Present
+      time: Mar 2016 - Present
       company: Researcher & Developer
       details: Developed an automated software vulnerable-code clone detection tool (https://iotcube.net).
 
     - role: National University of Singapore
-      time: 2017 Jan - 2017 Feb
+      time: Jan 2017 - Feb 2017 
       company: "Research Intern (Advisor: Prof. Minsuk Kang)"
       details: Developed a basic DDoS attack simulation tool.
     
     - role: DoDotDo (startup) 
-      time: 2015 Jan - 2015 Sep
+      time: Dec 2014 - Sep 2015
       company: Core developer
       details: Developed a smart watch-based hotel management system.
 
