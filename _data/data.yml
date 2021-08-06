@@ -53,6 +53,10 @@ sidebar:
         sub:
 
 speeches:
+    - role: "Analysis of Reused Open-Source Software Components for Software Bill of Materials"
+      company: Aug 2021
+      details: Talk at IoTcube Conference 2021
+
     - role: "V0Finder: Discovering the Correct Origin of Publicly Reported Software Vulnerabilities"
       company: Aug 2021
       details: Paper presentation at 30th USENIX Security Symposium
@@ -60,7 +64,19 @@ speeches:
     - role: "CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse"
       company: May 2021
       details: Paper presentation at 43rd International Conference on Software Engineering
-         
+    
+    - role: "Verification Technology for Open-Source Software Security"
+      company: Nov 2020
+      details: Talk at System Reverse Engineering and Vulnerability Analysis (KIISC online short course)
+  
+    - role: "Automatic Vulnerability Analysis Framework Applied to LA Smart City Projects"
+      company: Aug 2019
+      details: Talk at IoTcube Conference 2019
+
+    - role: "Identifying Constituent OSS in Software through Code Similarity Detection"
+      company: Jan 2018
+      details: Research presentation at 10th Workshop among Asian Information Security Labs
+
     - role: "IoTcube: an automated analysis platform for finding security vulnerabilities"
       company: May 2017
       details: Poster presentation at 38th IEEE Symposium on Security and Privacy
