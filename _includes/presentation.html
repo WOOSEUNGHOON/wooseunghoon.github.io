@@ -16,12 +16,18 @@
 
       <div class="upper-row">
         <h3 class="job-title">{{ speech.role }}</h3>
-        <div class="time">{{ speech.time }}</div>
+        <!--<div class="time">{{ speech.time }}</div>-->
       </div><!--//upper-row-->
 
       <div class="company">{{ speech.company }}</div>
 
     </div><!--//meta-->
+
+    {% if speech.details %}
+    <div class="details">
+      {{ speech.details }}
+    </div><!--//details-->
+    {% endif %}
 
   </div><!--//item-->
   {% endfor %}

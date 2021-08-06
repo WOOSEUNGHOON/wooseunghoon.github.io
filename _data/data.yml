@@ -54,16 +54,16 @@ sidebar:
 
 speeches:
     - role: "V0Finder: Discovering the Correct Origin of Publicly Reported Software Vulnerabilities"
-      time: Aug 2021
-      company: Paper presentation at 30th USENIX Security Symposium
-
+      company: Aug 2021
+      details: Paper presentation at 30th USENIX Security Symposium
+      
     - role: "CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse"
-      time: May 2021
-      company: Paper presentation at 43rd International Conference on Software Engineering
+      company: May 2021
+      details: Paper presentation at 43rd International Conference on Software Engineering
          
     - role: "IoTcube: an automated analysis platform for finding security vulnerabilities"
-      time: May 2017
-      company: Poster presentation at 38th IEEE Symposium on Security and Privacy
+      company: May 2017
+      details: Poster presentation at 38th IEEE Symposium on Security and Privacy
 
 
 contributions:
