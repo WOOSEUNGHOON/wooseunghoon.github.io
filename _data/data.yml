@@ -67,7 +67,7 @@ speeches:
     
     - role: "Verification Technology for Open-Source Software Security"
       company: Nov 2020
-      details: Talk at System Reverse Engineering and Vulnerability Analysis (KIISC online short course)
+      details: Talk at KIISC Online Short Course about System Reverse Engineering and Vulnerability Analysis
   
     - role: "Automatic Vulnerability Analysis Framework Applied to LA Smart City Projects"
       company: Aug 2019
