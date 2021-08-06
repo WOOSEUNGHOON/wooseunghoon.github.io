@@ -52,6 +52,26 @@ sidebar:
       - item: Vulnerability Detection
         sub:
 
+
+speeches:
+  title: Talks and Presentations
+  intro: |
+    
+
+  papers:
+    - title: "V0Finder: Discovering the Correct Origin of Publicly Reported Software Vulnerabilities"
+      authors: Paper presentation at 30th USENIX Security Symposium (Aug 2021)
+
+    - title: "CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse"
+      authors: Paper presentation at 43rd International Conference on Software Engineering (May 2021)
+
+    - title: "IoTcube: an automated analysis platform for finding security vulnerabilities"
+      authors: Poster presentation at 38th IEEE Symposium on Poster presented at Security and Privacy (May 2017)
+
+
+
+
+
 contributions:
   title: Open-Source Contributions
   intro: |
@@ -326,7 +346,7 @@ publications:
         conference: 30th USENIX Security Symposium (Security 2021)
         paperlink: 
 
-      - title: "OctoPoCs: Automatic Verification of Propagated Vulnerable Code Using Reformed Proofs of Concept (to appear)"
+      - title: "OctoPoCs: Automatic Verification of Propagated Vulnerable Code Using Reformed Proofs of Concept"
         authors: Seongkyeong Kwon, <strong>Seunghoon Woo</strong>, Gangmo Seong, Heejo Lee
         conference: 51st IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2021)
         paperlink: 

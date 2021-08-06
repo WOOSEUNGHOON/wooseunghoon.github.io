@@ -1,0 +1,27 @@
+{% assign speeches = site.data.data.speeches %}
+{% if speeches %}
+<section class="section speeches-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-child fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ speeches.title }}
+  </h2>
+
+  {% if speeches.intro %}
+  <div class="intro">
+    {{ speeches.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for speeche in speeches.papers %}
+  <div class="item">
+    <div class="patent-title">{{ speeche.title }}</div>
+    <div class="time">{{ speeche.authors }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
