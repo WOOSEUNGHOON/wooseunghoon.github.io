@@ -1,0 +1,31 @@
+{% assign speeches = site.data.data.speeches %}
+{% if speeches %}
+<section class="section speeches-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-child fa-stack-1x fa-inverse"></i>
+    </span>
+    Talks and Presentations
+  </h2>
+
+  {% for speech in speeches %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ speech.role }}</h3>
+        <div class="time">{{ speech.time }}</div>
+      </div><!--//upper-row-->
+
+      <div class="company">{{ speech.company }}</div>
+
+    </div><!--//meta-->
+
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
+

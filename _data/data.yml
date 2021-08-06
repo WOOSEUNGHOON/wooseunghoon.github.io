@@ -52,24 +52,18 @@ sidebar:
       - item: Vulnerability Detection
         sub:
 
-
 speeches:
-  title: Talks and Presentations
-  intro: |
-    
+    - role: "V0Finder: Discovering the Correct Origin of Publicly Reported Software Vulnerabilities"
+      time: Aug 2021
+      company: Paper presentation at 30th USENIX Security Symposium
 
-  papers:
-    - title: "V0Finder: Discovering the Correct Origin of Publicly Reported Software Vulnerabilities"
-      authors: Paper presentation at 30th USENIX Security Symposium (Aug 2021)
-
-    - title: "CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse"
-      authors: Paper presentation at 43rd International Conference on Software Engineering (May 2021)
-
-    - title: "IoTcube: an automated analysis platform for finding security vulnerabilities"
-      authors: Poster presentation at 38th IEEE Symposium on Poster presented at Security and Privacy (May 2017)
-
-
-
+    - role: "CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse"
+      time: May 2021
+      company: Paper presentation at 43rd International Conference on Software Engineering
+         
+    - role: "IoTcube: an automated analysis platform for finding security vulnerabilities"
+      time: May 2017
+      company: Poster presentation at 38th IEEE Symposium on Security and Privacy
 
 
 contributions:
