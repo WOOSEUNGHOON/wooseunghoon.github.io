@@ -369,7 +369,7 @@ publications:
         authors: <strong>Seunghoon Woo</strong>, Sunghan Park, Seulbae Kim, Heejo Lee, Hakjoo Oh
         conference: 43rd International Conference on Software Engineering (ICSE 2021)
         rate: 22.4%
-        paperlink: https://ccs.korea.ac.kr/pds/ICSE2021.pdf
+        paperlink: https://ccs.korea.ac.kr/pds/ICSE21.pdf
         slide: Centris_ICSE21_presentation.pdf
 
       - title: "VUDDY: A Scalable Approach for Vulnerable Code Clone Discovery"
