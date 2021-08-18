@@ -357,6 +357,7 @@ publications:
         rate: 19%
         paperlink: https://ccs.korea.ac.kr/pds/SECURITY21.pdf
         slide: V0Finder_SECURITY21_presentation.pdf
+        code: https://github.com/wooseunghoon/v0finder-public
 
       - title: "OctoPoCs: Automatic Verification of Propagated Vulnerable Code Using Reformed Proofs of Concept"
         authors: Seongkyeong Kwon, <strong>Seunghoon Woo</strong>, Gangmo Seong, Heejo Lee
@@ -364,6 +365,7 @@ publications:
         rate: 16.3%
         paperlink: https://ccs.korea.ac.kr/pds/DSN21.pdf
         slide: OctoPoCs_DSN21_presentation.pdf
+        code: https://github.com/blbi/OctoPoCs
 
       - title: "CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse"
         authors: <strong>Seunghoon Woo</strong>, Sunghan Park, Seulbae Kim, Heejo Lee, Hakjoo Oh
@@ -371,6 +373,7 @@ publications:
         rate: 22.4%
         paperlink: https://ccs.korea.ac.kr/pds/ICSE21.pdf
         slide: Centris_ICSE21_presentation.pdf
+        code: https://github.com/wooseunghoon/centris-public
 
       - title: "VUDDY: A Scalable Approach for Vulnerable Code Clone Discovery"
         authors: Seulbae Kim, <strong>Seunghoon Woo</strong>, Heejo Lee, Hakjoo Oh
@@ -378,6 +381,7 @@ publications:
         rate: 12.9%
         paperlink: https://ccs.korea.ac.kr/pds/SNP17.pdf
         slide: VUDDY_SNP17_presentation.pdf
+        code: https://github.com/squizz617/vuddy
 
       - title: "IoTcube: an automated analysis platform for finding security vulnerabilities"
         authors: Seulbae Kim, <strong>Seunghoon Woo</strong>, Heejo Lee, Hakjoo Oh
@@ -385,6 +389,7 @@ publications:
         rate: N/A
         paperlink: https://ccs.korea.ac.kr/pds/SNP17_Poster.pdf
         slide: 
+        code:
           
 
 skills:
