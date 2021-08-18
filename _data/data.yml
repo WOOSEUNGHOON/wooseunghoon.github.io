@@ -356,30 +356,35 @@ publications:
         conference: 30th USENIX Security Symposium (Security 2021)
         rate: 19%
         paperlink: https://ccs.korea.ac.kr/pds/SECURITY21.pdf
+        slide: V0Finder_SECURITY21_presentation.pdf
 
       - title: "OctoPoCs: Automatic Verification of Propagated Vulnerable Code Using Reformed Proofs of Concept"
         authors: Seongkyeong Kwon, <strong>Seunghoon Woo</strong>, Gangmo Seong, Heejo Lee
         conference: 51st IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2021)
         rate: 16.3%
         paperlink: https://ccs.korea.ac.kr/pds/DSN21.pdf
+        slide: OctoPoCs_DSN21_presentation.pdf
 
       - title: "CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse"
         authors: <strong>Seunghoon Woo</strong>, Sunghan Park, Seulbae Kim, Heejo Lee, Hakjoo Oh
         conference: 43rd International Conference on Software Engineering (ICSE 2021)
         rate: 22.4%
         paperlink: https://ccs.korea.ac.kr/pds/ICSE2021.pdf
+        slide: Centris_ICSE21_presentation.pdf
 
       - title: "VUDDY: A Scalable Approach for Vulnerable Code Clone Discovery"
         authors: Seulbae Kim, <strong>Seunghoon Woo</strong>, Heejo Lee, Hakjoo Oh
         conference: 38th IEEE Symposium on Security and Privacy (S&P 2017)
         rate: 12.9%
         paperlink: https://ccs.korea.ac.kr/pds/SNP17.pdf
+        slide: VUDDY_SNP17_presentation.pdf
 
       - title: "IoTcube: an automated analysis platform for finding security vulnerabilities"
         authors: Seulbae Kim, <strong>Seunghoon Woo</strong>, Heejo Lee, Hakjoo Oh
         conference: 38th IEEE Symposium on Poster presented at Security and Privacy (S&P Poster 2017)
         rate: N/A
         paperlink: https://ccs.korea.ac.kr/pds/SNP17_Poster.pdf
+        slide: 
           
 
 skills:
