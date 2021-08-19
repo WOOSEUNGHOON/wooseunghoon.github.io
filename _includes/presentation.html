@@ -29,6 +29,12 @@
     </div><!--//details-->
     {% endif %}
 
+    {% if speech.presentation %}
+    <div class="presentations">
+      <a href="{{ speech.presentation }}">[presentation]</a>
+    </div><!--//details-->
+    {% endif %}
+
   </div><!--//item-->
   {% endfor %}
 
