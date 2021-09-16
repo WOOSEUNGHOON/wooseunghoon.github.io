@@ -94,14 +94,20 @@ contributions:
     
 
   papers:
-    - title: Redis (Fixing the Security Vulnerability)
+    - title: Xpdf (Fixing Security Vulnerabilities (with Seongkyeong Kwon))
+      authors: https://www.xpdfreader.com (Dec 2020)
+
+    - title: Redis (Fixing Security Vulnerabilities)
       authors: https://github.com/redis/redis (Feb 2020)
 
-    - title: Stepmania (Fixing the Security Vulnerability (with Seongkyeong Kwon))
+    - title: Stepmania (Fixing Security Vulnerabilities (with Seongkyeong Kwon))
       authors: https://github.com/stepmania/stepmania (Sep 2019)
 
-    - title: Xpdf (Fixing the Security Vulnerability (with Seongkyeong Kwon))
-      authors: https://www.xpdfreader.com (Dec 2020)
+    - title: Godot (Fixing Security Vulnerabilities)
+      authors: https://github.com/godotengine/godot (Jul 2019)
+
+    - title: LibGDX (Fixing Security Vulnerabilities)
+      authors: https://github.com/libgdx/libgdx (Jul 2020)
 
 
 patents:
