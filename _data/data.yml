@@ -61,7 +61,7 @@ speeches:
     - role: "V0Finder: Discovering the Correct Origin of Publicly Reported Software Vulnerabilities"
       company: Aug 2021
       details: Paper presentation at 30th USENIX Security Symposium
-      presentation: 
+      presentation: https://www.youtube.com/watch?v=u3fMFiIrVvs
       
     - role: "CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse"
       company: May 2021
