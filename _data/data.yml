@@ -363,7 +363,7 @@ publications:
       
 
     papers:
-      - title: "Dicos: Discovering Insecure Code Snippets from Stack Overflow Posts by Leveraging User Discussions" (to appear)
+      - title: "Dicos: Discovering Insecure Code Snippets from Stack Overflow Posts by Leveraging User Discussions (to appear)"
         authors: Hyunji Hong, <strong style="color:#3F4650;">Seunghoon Woo</strong>, Heejo Lee
         conference: Annual Computer Security Applications Conference (ACSAC 2021)
         rate: 24%
