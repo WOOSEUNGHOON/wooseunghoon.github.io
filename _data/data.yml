@@ -366,7 +366,7 @@ publications:
       - title: "DICOS: Discovering Insecure Code Snippets from Stack Overflow Posts by Leveraging User Discussions (to appear)"
         authors: Hyunji Hong, <strong style="color:#3F4650;">Seunghoon Woo</strong>, Heejo Lee
         conference: Annual Computer Security Applications Conference (ACSAC 2021)
-        rate: 24%
+        rate: 24.5%
         paperlink: 
         slide: 
         code: 
@@ -374,7 +374,7 @@ publications:
       - title: "V0Finder: Discovering the Correct Origin of Publicly Reported Software Vulnerabilities"
         authors: <strong style="color:#3F4650;">Seunghoon Woo</strong>, Dongwook Lee, Sunghan Park, Heejo Lee, Sven Dietrich
         conference: 30th USENIX Security Symposium (Security 2021)
-        rate: 19%
+        rate: 19.0%
         paperlink: https://ccs.korea.ac.kr/pds/SECURITY21.pdf
         slide: V0Finder_SECURITY21_presentation.pdf
         code: https://github.com/wooseunghoon/v0finder-public
