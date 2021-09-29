@@ -49,6 +49,9 @@ sidebar:
       - item: Software Composition Analysis
         sub:
 
+      - item: Code Clone Detection
+        sub:
+
       - item: Vulnerability Detection
         sub:
 
