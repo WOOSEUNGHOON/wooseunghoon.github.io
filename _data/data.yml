@@ -370,6 +370,8 @@ publications:
         paperlink: 
         slide: 
         code: 
+        article1:
+        article2:
 
       - title: "V0Finder: Discovering the Correct Origin of Publicly Reported Software Vulnerabilities"
         authors: <strong style="color:#3F4650;">Seunghoon Woo</strong>, Dongwook Lee, Sunghan Park, Heejo Lee, Sven Dietrich
@@ -378,6 +380,8 @@ publications:
         paperlink: https://ccs.korea.ac.kr/pds/SECURITY21.pdf
         slide: V0Finder_SECURITY21_presentation.pdf
         code: https://github.com/wooseunghoon/v0finder-public
+        article1: https://www.boannews.com/media/view.asp?idx=100545
+        article2: http://www.kyosu.net/news/articleView.html?idxno=76034
 
       - title: "OctoPoCs: Automatic Verification of Propagated Vulnerable Code Using Reformed Proofs of Concept"
         authors: Seongkyeong Kwon, <strong style="color:#3F4650;">Seunghoon Woo</strong>, Gangmo Seong, Heejo Lee
@@ -386,6 +390,8 @@ publications:
         paperlink: https://ccs.korea.ac.kr/pds/DSN21.pdf
         slide: OctoPoCs_DSN21_presentation.pdf
         code: https://github.com/blbi/OctoPoCs
+        article1:
+        article2:
 
       - title: "CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse"
         authors: <strong style="color:#3F4650;">Seunghoon Woo</strong>, Sunghan Park, Seulbae Kim, Heejo Lee, Hakjoo Oh
@@ -394,6 +400,8 @@ publications:
         paperlink: https://ccs.korea.ac.kr/pds/ICSE21.pdf
         slide: Centris_ICSE21_presentation.pdf
         code: https://github.com/wooseunghoon/centris-public
+        article1: https://portswigger.net/daily-swig/centris-new-tool-helps-prevent-software-supply-chain-attacks-by-flagging-modified-open-source-components
+        article2: https://www.boannews.com/media/view.asp?idx=95883
 
       - title: "VUDDY: A Scalable Approach for Vulnerable Code Clone Discovery"
         authors: Seulbae Kim, <strong style="color:#3F4650;">Seunghoon Woo</strong>, Heejo Lee, Hakjoo Oh
@@ -402,6 +410,8 @@ publications:
         paperlink: https://ccs.korea.ac.kr/pds/SNP17.pdf
         slide: VUDDY_SNP17_presentation.pdf
         code: https://github.com/squizz617/vuddy
+        article1: https://www.korea.ac.kr/user/boardList.do?boardId=474633&siteId=university&page=20&search=&column=&boardType=02&listType=&id=university_060108000000&parent=&boardSeq=474672&command=albumView&chkBoxSeq=&chkBoxId=&chkBoxPos=&chkBoxDepth=&chkBoxFamSeq=&warningYn=N&categoryId=&categoryDepth=&totalYn=&searchDate1=&searchDate2=
+        article2: http://www.veritas-a.com/news/articleView.html?idxno=83064
 
       - title: "IoTcube: an automated analysis platform for finding security vulnerabilities"
         authors: Seulbae Kim, <strong style="color:#3F4650;">Seunghoon Woo</strong>, Heejo Lee, Hakjoo Oh
@@ -410,6 +420,8 @@ publications:
         paperlink: https://ccs.korea.ac.kr/pds/SNP17_Poster.pdf
         slide: 
         code:
+        article1:
+        article2:
           
 
 skills:
