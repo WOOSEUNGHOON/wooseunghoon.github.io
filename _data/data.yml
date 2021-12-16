@@ -370,7 +370,7 @@ publications:
         authors: Hyunji Hong, <strong style="color:#3F4650;">Seunghoon Woo</strong>, Heejo Lee
         conference: Annual Computer Security Applications Conference (ACSAC 2021)
         rate: 24.5%
-        paperlink: https://ccs.korea.ac.kr/pds/ACSAC21.pdf
+        paperlink: ACSAC21.pdf
         slide: Dicos_ACSAC21_presentation.pdf
         code: https://github.com/hyunji-hong/dicos-public
         article1:
@@ -380,7 +380,7 @@ publications:
         authors: <strong style="color:#3F4650;">Seunghoon Woo</strong>, Dongwook Lee, Sunghan Park, Heejo Lee, Sven Dietrich
         conference: 30th USENIX Security Symposium (Security 2021)
         rate: 19.0%
-        paperlink: https://ccs.korea.ac.kr/pds/SECURITY21.pdf
+        paperlink: SECURITY21.pdf
         slide: V0Finder_SECURITY21_presentation.pdf
         code: https://github.com/wooseunghoon/v0finder-public
         article1: https://www.boannews.com/media/view.asp?idx=100545
@@ -390,7 +390,7 @@ publications:
         authors: Seongkyeong Kwon, <strong style="color:#3F4650;">Seunghoon Woo</strong>, Gangmo Seong, Heejo Lee
         conference: 51st IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2021)
         rate: 16.3%
-        paperlink: https://ccs.korea.ac.kr/pds/DSN21.pdf
+        paperlink: DSN21.pdf
         slide: OctoPoCs_DSN21_presentation.pdf
         code: https://github.com/blbi/OctoPoCs
         article1:
@@ -400,7 +400,7 @@ publications:
         authors: <strong style="color:#3F4650;">Seunghoon Woo</strong>, Sunghan Park, Seulbae Kim, Heejo Lee, Hakjoo Oh
         conference: 43rd International Conference on Software Engineering (ICSE 2021)
         rate: 22.4%
-        paperlink: https://ccs.korea.ac.kr/pds/ICSE21.pdf
+        paperlink: ICSE21.pdf
         slide: Centris_ICSE21_presentation.pdf
         code: https://github.com/wooseunghoon/centris-public
         article1: https://portswigger.net/daily-swig/centris-new-tool-helps-prevent-software-supply-chain-attacks-by-flagging-modified-open-source-components
@@ -410,7 +410,7 @@ publications:
         authors: Seulbae Kim, <strong style="color:#3F4650;">Seunghoon Woo</strong>, Heejo Lee, Hakjoo Oh
         conference: 38th IEEE Symposium on Security and Privacy (S&P 2017)
         rate: 12.9%
-        paperlink: https://ccs.korea.ac.kr/pds/SNP17.pdf
+        paperlink: SNP17.pdf
         slide: VUDDY_SNP17_presentation.pdf
         code: https://github.com/squizz617/vuddy
         article1: https://www.korea.ac.kr/user/boardList.do?boardId=474633&siteId=university&page=20&search=&column=&boardType=02&listType=&id=university_060108000000&parent=&boardSeq=474672&command=albumView&chkBoxSeq=&chkBoxId=&chkBoxPos=&chkBoxDepth=&chkBoxFamSeq=&warningYn=N&categoryId=&categoryDepth=&totalYn=&searchDate1=&searchDate2=
@@ -420,7 +420,7 @@ publications:
         authors: Seulbae Kim, <strong style="color:#3F4650;">Seunghoon Woo</strong>, Heejo Lee, Hakjoo Oh
         conference: 38th IEEE Symposium on Poster presented at Security and Privacy (S&P Poster 2017)
         rate: N/A
-        paperlink: https://ccs.korea.ac.kr/pds/SNP17_Poster.pdf
+        paperlink: SNP17_Poster.pdf
         slide: 
         code:
         article1:
