@@ -20,22 +20,22 @@
   <div class="item">
     <div class="publication-title">{{ publication.title }}</div>
     <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference"><i>{{ publication.conference }}</i></div>
+    <div class="publication-conference" style="color:#790030;"><b>{{ publication.conference }}</b></div>
     <div class="publication-conference">
       (acceptance rate: {{ publication.rate }}) 
       <!--<a href = "{{ publication.paperlink }}">[paper]</a>-->
-      <a href = "{{ site.baseurl }}/assets/papers/{{ publication.paperlink }}">[paper]</a>
+      <a href = "{{ site.baseurl }}/assets/papers/{{ publication.paperlink }}" style="color:#000000;">[paper]</a>
       {% if publication.slide %}
-      <a href = "{{ site.baseurl }}/assets/presentations/{{ publication.slide }}">[slide]</a>
+      <a href = "{{ site.baseurl }}/assets/presentations/{{ publication.slide }}" style="color:#000000;">[slide]</a>
       {% endif %}
       {% if publication.code %}
-      <a href = "{{ publication.code }}">[code]</a>
+      <a href = "{{ publication.code }}" style="color:#000000;">[code]</a>
       {% endif %}
       {% if publication.article1 %}
-      <a href = "{{ publication.article1 }}">[article1]</a>
+      <a href = "{{ publication.article1 }}" style="color:#000000;">[article1]</a>
       {% endif %}
       {% if publication.article2 %}
-      <a href = "{{ publication.article2 }}">[article2]</a>
+      <a href = "{{ publication.article2 }}" style="color:#000000;">[article2]</a>
       {% endif %}
     </div>
       
