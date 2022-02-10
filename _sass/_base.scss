@@ -180,11 +180,11 @@ p {
         margin-bottom: 2px;
     }
     .job-title, .degree {
-        color: $text-color;
+        font-weight: 600;
+        color: #000000;
         font-size: 14px;
         margin-top: 0;
         margin-bottom: 5px;
-        font-weight: 800;
     }
     .time {
         position: absolute;
@@ -199,7 +199,8 @@ p {
 
     .project-title {
         font-size: 14px;
-        font-weight: 800;
+        font-weight: 600;
+        color: #000000;
         margin-top: 0;
         margin-bottom: 5px;
     }
@@ -214,8 +215,8 @@ p {
     
     .patent-title {
         font-size: 14px;
-        font-weight: 800;
-        color: $text-color;
+        font-weight: 600;
+        color: #000000;
         margin-bottom: 1px;
     }
     .patent-authors {
@@ -226,7 +227,7 @@ p {
 
     .publication-title {
         font-size: 14px;
-        font-weight: 800;
+        font-weight: 600;
         color: $text-color;
         margin-bottom: 1px;
     }
@@ -238,6 +239,7 @@ p {
     .publication-authors strong {
         font-size: 14px;
         color: #9a9a9a;
+        font-weight: 100;
         margin-bottom: 1px;
         text-decoration: underline;
         text-underline-position:under;
@@ -257,7 +259,7 @@ p {
 
     .publication-title {
         font-size: 14px;
-        font-weight: 800;
+        font-weight: 600;
         color: $text-color;
         margin-bottom: 1px;
     }
