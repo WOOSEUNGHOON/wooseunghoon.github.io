@@ -117,10 +117,13 @@ patents:
   title: Patents
   intro: |
     
-
   papers:
     - title: "METHOD FOR IDENTIFYING OPEN-SOURCE SOFTWARE COMPONENTS AT THE SOURCE-CODE LEVEL"
-      authors: Heejo Lee, Seunghoon Woo (10-2021-0010585, Jan 2021)
+      authors: Heejo Lee, Seunghoon Woo (US 17525126, Nov 2021)
+    - title: "METHOD FOR IDENTIFYING OPEN-SOURCE SOFTWARE COMPONENTS AT THE SOURCE-CODE LEVEL"
+      authors: Heejo Lee, Seunghoon Woo (EU EP21202849.2, Oct 2021)
+    - title: "METHOD FOR IDENTIFYING OPEN-SOURCE SOFTWARE COMPONENTS AT THE SOURCE-CODE LEVEL"
+      authors: Heejo Lee, Seunghoon Woo (KR 10-2021-0010585, Jan 2021)
 
 
 career-profile:
