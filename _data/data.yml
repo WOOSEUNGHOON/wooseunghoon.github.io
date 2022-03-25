@@ -97,8 +97,8 @@ contributions:
     
 
   papers:
-    - title: APPLE (Fixing Security Vulnerabilities) - with Haram Park
-      authors: Discovered DoS vulnerabilities in APPLE tvOS, watchOS, iOS, iPadOS, and macOS Monterey Bluetooth stack
+    - title: Apple (Fixing Security Vulnerabilities) - with Haram Park
+      authors: Discovered DoS vulnerabilities in Apple tvOS, watchOS, iOS, iPadOS, and macOS Monterey Bluetooth stack
 
     - title: Xpdf (Fixing Security Vulnerabilities) - with Seongkyeong Kwon
       authors: Detected a stack consumption vulnerability in XPDF (https://www.xpdfreader.com)
