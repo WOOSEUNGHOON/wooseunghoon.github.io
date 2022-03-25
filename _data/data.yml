@@ -97,20 +97,23 @@ contributions:
     
 
   papers:
-    - title: Xpdf (Fixing Security Vulnerabilities (with Seongkyeong Kwon))
-      authors: https://www.xpdfreader.com (Dec 2020)
+    - title: APPLE (Fixing Security Vulnerabilities) - with Haram Park
+      authors: Discovered DoS vulnerabilities in APPLE tvOS, watchOS, iOS, iPadOS, and macOS Monterey Bluetooth stack
+
+    - title: Xpdf (Fixing Security Vulnerabilities) - with Seongkyeong Kwon
+      authors: Detected a stack consumption vulnerability in XPDF (https://www.xpdfreader.com)
+      
+    - title: Stepmania (Fixing Security Vulnerabilities) - with Seongkyeong Kwon
+      authors: Detected a vulnerability related to improper validation of array index in Stepmania (https://github.com/stepmania/stepmania)
 
     - title: Redis (Fixing Security Vulnerabilities)
-      authors: https://github.com/redis/redis (Feb 2020)
-
-    - title: Stepmania (Fixing Security Vulnerabilities (with Seongkyeong Kwon))
-      authors: https://github.com/stepmania/stepmania (Sep 2019)
+      authors: Detected a possible stack-based buffer overflow vulnerability in Redis (https://github.com/redis/redis)
 
     - title: Godot (Fixing Security Vulnerabilities)
-      authors: https://github.com/godotengine/godot (Jul 2019)
+      authors: Detected a possible remote code execution vulnerability in Godot (https://github.com/godotengine/godot)
 
     - title: LibGDX (Fixing Security Vulnerabilities)
-      authors: https://github.com/libgdx/libgdx (Jul 2020)
+      authors: Detected a possible remote code execution vulnerability in LibGDX (https://github.com/libgdx/libgdx)
 
 
 patents:
