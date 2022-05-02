@@ -376,7 +376,7 @@ publications:
         authors: <strong style="color:#000000;">Seunghoon Woo</strong>, Hyunji Hong, Eunjin Choi, Heejo Lee
         conference: 31st USENIX Security Symposium (Security 2022)
         rate: N/A
-        paperlink: 
+        paperlink: nopaper.pdf
         slide: 
         code: 
         article1:
@@ -386,7 +386,7 @@ publications:
         authors: Haram Park, Carlos Nkuba Kayembe, <strong style="color:#000000;">Seunghoon Woo</strong>, Heejo Lee
         conference: 52nd IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2022)
         rate: 18.7%
-        paperlink: 
+        paperlink: nopaper.pdf
         slide: 
         code: 
         article1:
