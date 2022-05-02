@@ -375,7 +375,7 @@ publications:
       - title: "MOVERY: A Precise Approach for Modified Vulnerable Code Clone Discovery from Modified Open-Source Software Components (TO APPEAR)"
         authors: <strong style="color:#000000;">Seunghoon Woo</strong>, Hyunji Hong, Eunjin Choi, Heejo Lee
         conference: 31st USENIX Security Symposium (Security 2022)
-        rate: -
+        rate: N/A
         paperlink: 
         slide: 
         code: 
