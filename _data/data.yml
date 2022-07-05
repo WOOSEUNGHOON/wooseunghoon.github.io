@@ -372,6 +372,16 @@ publications:
       
 
     papers:
+      - title: "Detecting Software Vulnerabilities for Mitigating Risks of Open-Source Reuse"
+        authors: <strong style="color:#000000;">Seunghoon Woo</strong> (advisor: Prof. Heejo Lee)
+        conference: Ph.D.Thesis, Korea University (2022)
+        rate: N/A
+        paperlink: nopaper.pdf
+        slide: 
+        code: 
+        article1:
+        article2:
+
       - title: "MOVERY: A Precise Approach for Modified Vulnerable Code Clone Discovery from Modified Open-Source Software Components (TO APPEAR)"
         authors: <strong style="color:#000000;">Seunghoon Woo</strong>, Hyunji Hong, Eunjin Choi, Heejo Lee
         conference: 31st USENIX Security Symposium (Security 2022)
