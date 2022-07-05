@@ -187,7 +187,7 @@ news:
 education:
     - degree: M.S & Ph.D Integrated Course in Computer & Communication Security Laboratory
       university: Korea University
-      time: Sep 2016 - Present
+      time: Sep 2016 - Aug 2022
       details: "Cumulative GPA: 4.45/4.5"
       
     - degree: Bachelor of Computer Science and Engineering
@@ -373,7 +373,7 @@ publications:
 
     papers:
       - title: "Detecting Software Vulnerabilities for Mitigating Risks of Open-Source Reuse"
-        authors: <strong style="color:#000000;">Seunghoon Woo</strong> (advisor: Prof. Heejo Lee)
+        authors: <strong style="color:#000000;">Seunghoon Woo</strong>
         conference: Ph.D.Thesis, Korea University (2022)
         rate: N/A
         paperlink: nopaper.pdf
