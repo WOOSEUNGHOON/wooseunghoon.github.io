@@ -392,7 +392,7 @@ publications:
         article1:
         article2:
 
-      - title: "L2Fuzz: Discovering Bluetooth L2CAP Vulnerabilities Using Stateful Fuzz Testing (TO APPEAR)"
+      - title: "L2Fuzz: Discovering Bluetooth L2CAP Vulnerabilities Using Stateful Fuzz Testing"
         authors: Haram Park, Carlos Nkuba Kayembe, <strong style="color:#000000;">Seunghoon Woo</strong>, Heejo Lee
         conference: 52nd IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2022)
         rate: 18.7%
