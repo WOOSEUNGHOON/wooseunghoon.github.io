@@ -397,7 +397,7 @@ publications:
         conference: 52nd IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2022)
         rate: 18.7%
         paperlink: DSN22.pdf
-        slide: 
+        slide: L2Fuzz_DSN22_presentation.pdf
         code: https://github.com/haramel/l2fuzz
         article1:
         article2:
