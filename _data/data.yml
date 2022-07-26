@@ -398,7 +398,7 @@ publications:
         authors: Haram Park, Carlos Nkuba Kayembe, <strong style="color:#000000;">Seunghoon Woo</strong>, Heejo Lee
         conference: 52nd IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2022)
         rate: 18.7%
-        paperlink: DSN22.pdf
+        paperlink: nopaper.pdf
         slide: L2Fuzz_DSN22_presentation.pdf
         code: https://github.com/haramel/l2fuzz
         article1:
