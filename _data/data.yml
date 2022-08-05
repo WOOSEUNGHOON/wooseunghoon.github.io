@@ -374,6 +374,16 @@ publications:
       
 
     papers:
+      - title: "xVDB: A High-Coverage Approach for Constructing a Vulnerability Database"
+        authors: Hyunji Hong, <strong style="color:#000000;">Seunghoon Woo</strong>, Eunjin Choi, Jihyun Choi, Heejo Lee
+        conference: IEEE ACCESS (2022, IF:3.476)
+        rate: N/A
+        paperlink: nopaper.pdf
+        slide: 
+        code: 
+        article1:
+        article2:
+
       - title: "Detecting Software Vulnerabilities for Mitigating Risks of Open-Source Reuse"
         authors: <strong style="color:#000000;">Seunghoon Woo</strong>
         conference: Ph.D.Thesis, Korea University (2022)
