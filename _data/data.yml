@@ -56,6 +56,11 @@ sidebar:
         sub:
 
 speeches:
+    - role: "Open Source Vulnerability Detection for Supply Chain Security"
+      company: Jul 2022
+      details: Supply Chain Security Workshop 2022
+      presentation: https://www.youtube.com/watch?v=dEwHPXXL8Hg&t=14370s
+
     - role: "Analysis of Reused Open-Source Software Components for Software Bill of Materials"
       company: Aug 2021
       details: Talk at IoTcube Conference 2021
@@ -278,7 +283,17 @@ education:
 
 experiences:
     - role: Center for Software Security and Assurance
-      time: Mar 2016 - Present
+      time: Sep 2022 - Present
+      company: Research Professor
+      details: Researching open-source software security & participating in the automated SBOM generation project.
+
+    - role: IOTCUBE Inc.
+      time: May 2022 - Present
+      company: Chief Scientist
+      details: Improving an automated software vulnerability assessment tool (https://iotcube.com).
+
+    - role: Center for Software Security and Assurance
+      time: Mar 2016 - Aug 2022
       company: Researcher & Developer
       details: Developed an automated software vulnerable-code clone detection tool (https://iotcube.net).
 
