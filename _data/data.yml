@@ -485,7 +485,7 @@ publications:
         article2: http://www.veritas-a.com/news/articleView.html?idxno=83064
         type: conference
 
-      - title: "IoTcube: an automated analysis platform for finding security vulnerabilities"
+      - title: "Poster: IoTcube: an automated analysis platform for finding security vulnerabilities"
         authors: Seulbae Kim, <strong style="color:#000000;">Seunghoon Woo</strong>, Heejo Lee, Hakjoo Oh
         conference: 38th IEEE Symposium on Poster presented at Security and Privacy (S&P Poster 2017)
         rate: N/A
