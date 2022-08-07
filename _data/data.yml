@@ -398,18 +398,9 @@ publications:
         code: 
         article1:
         article2:
+        type: journal
 
-      - title: "[2] Detecting Software Vulnerabilities for Mitigating Risks of Open-Source Reuse"
-        authors: <strong style="color:#000000;">Seunghoon Woo</strong>
-        conference: Ph.D.Thesis, Korea University (2022)
-        rate: N/A
-        paperlink: nopaper.pdf
-        slide: 
-        code: 
-        article1:
-        article2:
-
-      - title: "[3] MOVERY: A Precise Approach for Modified Vulnerable Code Clone Discovery from Modified Open-Source Software Components (TO APPEAR)"
+      - title: "[1] MOVERY: A Precise Approach for Modified Vulnerable Code Clone Discovery from Modified Open-Source Software Components (TO APPEAR)"
         authors: <strong style="color:#000000;">Seunghoon Woo</strong>, Hyunji Hong, Eunjin Choi, Heejo Lee
         conference: 31st USENIX Security Symposium (Security 2022)
         rate: N/A
@@ -418,8 +409,9 @@ publications:
         code: 
         article1:
         article2:
+        type: conference
 
-      - title: "[4] L2Fuzz: Discovering Bluetooth L2CAP Vulnerabilities Using Stateful Fuzz Testing"
+      - title: "[2] L2Fuzz: Discovering Bluetooth L2CAP Vulnerabilities Using Stateful Fuzz Testing"
         authors: Haram Park, Carlos Nkuba Kayembe, <strong style="color:#000000;">Seunghoon Woo</strong>, Heejo Lee
         conference: 52nd IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2022)
         rate: 18.7%
@@ -428,8 +420,9 @@ publications:
         code: https://github.com/haramel/l2fuzz
         article1:
         article2:
+        type: conference
 
-      - title: "[5] DICOS: Discovering Insecure Code Snippets from Stack Overflow Posts by Leveraging User Discussions"
+      - title: "[3] DICOS: Discovering Insecure Code Snippets from Stack Overflow Posts by Leveraging User Discussions"
         authors: Hyunji Hong, <strong style="color:#000000;">Seunghoon Woo</strong>, Heejo Lee
         conference: Annual Computer Security Applications Conference (ACSAC 2021)
         rate: 24.5%
@@ -438,8 +431,9 @@ publications:
         code: https://github.com/hyunji-hong/dicos-public
         article1:
         article2:
+        type: conference
 
-      - title: "[6] V0Finder: Discovering the Correct Origin of Publicly Reported Software Vulnerabilities"
+      - title: "[4] V0Finder: Discovering the Correct Origin of Publicly Reported Software Vulnerabilities"
         authors: <strong style="color:#000000;">Seunghoon Woo</strong>, Dongwook Lee, Sunghan Park, Heejo Lee, Sven Dietrich
         conference: 30th USENIX Security Symposium (Security 2021)
         rate: 19.0%
@@ -448,8 +442,9 @@ publications:
         code: https://github.com/wooseunghoon/v0finder-public
         article1: https://www.boannews.com/media/view.asp?idx=100545
         article2: http://www.kyosu.net/news/articleView.html?idxno=76034
+        type: conference
 
-      - title: "[7] OctoPoCs: Automatic Verification of Propagated Vulnerable Code Using Reformed Proofs of Concept"
+      - title: "[5] OctoPoCs: Automatic Verification of Propagated Vulnerable Code Using Reformed Proofs of Concept"
         authors: Seongkyeong Kwon, <strong style="color:#000000;">Seunghoon Woo</strong>, Gangmo Seong, Heejo Lee
         conference: 51st IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2021)
         rate: 16.3%
@@ -458,8 +453,9 @@ publications:
         code: https://github.com/blbi/OctoPoCs
         article1:
         article2:
+        type: conference
 
-      - title: "[8] CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse"
+      - title: "[6] CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse"
         authors: <strong style="color:#000000;">Seunghoon Woo</strong>, Sunghan Park, Seulbae Kim, Heejo Lee, Hakjoo Oh
         conference: 43rd International Conference on Software Engineering (ICSE 2021)
         rate: 22.4%
@@ -468,8 +464,9 @@ publications:
         code: https://github.com/wooseunghoon/centris-public
         article1: https://portswigger.net/daily-swig/centris-new-tool-helps-prevent-software-supply-chain-attacks-by-flagging-modified-open-source-components
         article2: https://www.boannews.com/media/view.asp?idx=95883
+        type: conference
 
-      - title: "[9] VUDDY: A Scalable Approach for Vulnerable Code Clone Discovery"
+      - title: "[7] VUDDY: A Scalable Approach for Vulnerable Code Clone Discovery"
         authors: Seulbae Kim, <strong style="color:#000000;">Seunghoon Woo</strong>, Heejo Lee, Hakjoo Oh
         conference: 38th IEEE Symposium on Security and Privacy (S&P 2017)
         rate: 12.9%
@@ -478,8 +475,9 @@ publications:
         code: https://github.com/squizz617/vuddy
         article1: https://www.korea.ac.kr/user/boardList.do?boardId=474633&siteId=university&page=20&search=&column=&boardType=02&listType=&id=university_060108000000&parent=&boardSeq=474672&command=albumView&chkBoxSeq=&chkBoxId=&chkBoxPos=&chkBoxDepth=&chkBoxFamSeq=&warningYn=N&categoryId=&categoryDepth=&totalYn=&searchDate1=&searchDate2=
         article2: http://www.veritas-a.com/news/articleView.html?idxno=83064
+        type: conference
 
-      - title: "[10] IoTcube: an automated analysis platform for finding security vulnerabilities"
+      - title: "[1] IoTcube: an automated analysis platform for finding security vulnerabilities"
         authors: Seulbae Kim, <strong style="color:#000000;">Seunghoon Woo</strong>, Heejo Lee, Hakjoo Oh
         conference: 38th IEEE Symposium on Poster presented at Security and Privacy (S&P Poster 2017)
         rate: N/A
@@ -488,6 +486,8 @@ publications:
         code:
         article1:
         article2:
+        type: poster
+
           
 
 skills:
