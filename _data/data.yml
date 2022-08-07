@@ -5,6 +5,7 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
+    thesis: True
 
     # Profile information
     name: Seunghoon Woo
@@ -190,6 +191,13 @@ news:
         
         - time: 2017
           title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
+
+thesis:
+    - degree: Detecting Software Vulnerabilities for Mitigating Risks of Open-Source Reuse
+      university: Korea University
+      time: Aug 2022
+      details: "Advisor: Prof.Heejo Lee"
+      
 
 education:
     - degree: M.S & Ph.D Integrated Course in Computer & Communication Security Laboratory
