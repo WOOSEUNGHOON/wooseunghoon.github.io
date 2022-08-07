@@ -84,7 +84,7 @@
   </div>
 
   {% for publication in publications.papers %}
-    {% if publication.type != "journal" and if publication.type != "conference" %}
+    {% if publication.type == "poster" %}
     <div class="item">
       <div class="publication-title" style="color:#000000;">{{ publication.title }}</div>
       <div class="publication-authors">{{ publication.authors }}</div>
@@ -109,8 +109,6 @@
     </div><!--//item-->
     {% endif %}
   {% endfor %}
-
-
 
 </section><!--//section-->
 {% endif %}
