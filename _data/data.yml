@@ -194,6 +194,8 @@ news:
 
 thesis:
     - degree: Detecting Software Vulnerabilities for Mitigating Risks of Open-Source Reuse
+      major: Computer Science and Engineering
+      lab: Computer & Communication Security Laboratory
       university: Korea University
       time: Aug 2022
       details: "Advisor: Prof.Heejo Lee"
