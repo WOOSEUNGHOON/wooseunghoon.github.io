@@ -1,9 +1,9 @@
 /* ======= Base ======= */
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     color: $text-color-secondary;
     background: $smoky-white;
-    font-size: 14px;
+    font-size: 16px;
     padding: 30px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -239,18 +239,18 @@ p {
     }
 
     .publication-title {
-        font-size: 14px;
+        font-size: 16px;
         font-weight: 600;
         color: $text-color;
         margin-bottom: 1px;
     }
     .publication-authors {
-        font-size: 14px;
+        font-size: 16px;
         color: #97aac3;
         margin-bottom: 1px;
     }
     .publication-authors strong {
-        font-size: 14px;
+        font-size: 16px;
         color: #9a9a9a;
         font-weight: 400;
         margin-bottom: 1px;
@@ -259,7 +259,7 @@ p {
     }
 
     .publication-conference {
-        font-size: 14px;
+        font-size: 16px;
     }
     .publications-section {
         .intro {
@@ -271,18 +271,18 @@ p {
     }
 
     .publication-title {
-        font-size: 14px;
+        font-size: 16px;
         font-weight: 600;
         color: $text-color;
         margin-bottom: 1px;
     }
     .publication-authors {
-        font-size: 14px;
+        font-size: 16px;
         color: #97aac3;
         margin-bottom: 1px;
     }
     .publication-conference {
-        font-size: 14px;
+        font-size: 16px;
     }
     .publications-section {
         .intro {
