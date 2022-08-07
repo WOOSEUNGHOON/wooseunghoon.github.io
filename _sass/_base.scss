@@ -1,6 +1,6 @@
 /* ======= Base ======= */
 body {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Anek Gujarati', sans-serif;
     color: $text-color-secondary;
     background: $smoky-white;
     font-size: 16px;
@@ -195,7 +195,7 @@ p {
     .job-title, .degree {
         font-weight: 600;
         color: #000000;
-        font-size: 14px;
+        font-size: 16px;
         margin-top: 0;
         margin-bottom: 5px;
     }
@@ -211,7 +211,7 @@ p {
     }
 
     .project-title {
-        font-size: 14px;
+        font-size: 16px;
         font-weight: 600;
         color: #000000;
         margin-top: 0;
@@ -227,13 +227,13 @@ p {
     }
     
     .patent-title {
-        font-size: 14px;
+        font-size: 16px;
         font-weight: 600;
         color: #000000;
         margin-bottom: 1px;
     }
     .patent-authors {
-        font-size: 14px;
+        font-size: 16px;
         color: #9a9a9a;
         margin-bottom: 10px;
     }
