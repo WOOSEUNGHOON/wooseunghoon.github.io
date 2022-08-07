@@ -16,14 +16,10 @@
   </div><!--//intro-->
   {% endif %}
 
+  <div class="section-subtitle">
+    INTERNATIONAL CONFERENCE PUBLICATIONS
+  </div>
   {% for publication in publications.papers %}
-  {% if publication.conference == "Ph.D.Thesis, Korea University (2022)" %}
-    <div class="item">
-      <div class="publication-title" style="color:#000000;">{{ publication.title }}</div>
-      <div class="publication-authors">{{ publication.authors }} (advisor: Prof. Heejo Lee)</div>
-      <div class="publication-conference" style="color:#790030;">{{ publication.conference }}</div>
-    </div><!--//item-->
-  {% else %}
     <div class="item">
       <div class="publication-title" style="color:#000000;">{{ publication.title }}</div>
       <div class="publication-authors">{{ publication.authors }}</div>
@@ -46,7 +42,6 @@
         {% endif %}
       </div>
     </div><!--//item-->
-  {% endif %}
   {% endfor %}
 
 </section><!--//section-->
