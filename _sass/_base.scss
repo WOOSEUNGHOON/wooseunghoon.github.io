@@ -40,7 +40,7 @@ p {
     background: #257160;
     position: absolute;
     left: 0;
-    width: 280px;
+    width: 300px;
     height: 100%;
     min-height: 800px;
     color: #fff;
@@ -116,13 +116,14 @@ p {
         .meta {
             color: rgba(256, 256, 256, 0.6);
             font-weight: 500;
-            margin-bottom: 0px;
+            margin-bottom: 5px;
             margin-top: 0;
         }
         .time {
             color: rgba(256, 256, 256, 0.6);
             font-weight: 500;
-            margin-bottom: 0px;
+            font-size: 12px;
+            margin-bottom: 2px;
         }
     }
     .languages-container {
