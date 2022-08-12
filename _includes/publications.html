@@ -64,6 +64,9 @@
         {% if publication.slide %}
         <a href = "{{ site.baseurl }}/assets/presentations/{{ publication.slide }}" style="color:#3F4650;">[slide]</a>
         {% endif %}
+        {% if publication.link %}
+        <a href = "{{ publication.link }}" style="color:#3F4650;">[link]</a>
+        {% endif %}
         {% if publication.code %}
         <a href = "{{ publication.code }}" style="color:#3F4650;">[code]</a>
         {% endif %}
