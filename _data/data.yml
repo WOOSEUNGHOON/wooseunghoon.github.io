@@ -403,7 +403,7 @@ publications:
         authors: Hyunji Hong, <strong style="color:#000000;">Seunghoon Woo</strong>, Eunjin Choi, Jihyun Choi, Heejo Lee
         conference: IEEE ACCESS (2022, IF:3.476)
         rate: N/A
-        paperlink: nopaper.pdf
+        paperlink: ACCESS22.pdf
         slide: 
         code: 
         article1:
@@ -414,9 +414,9 @@ publications:
         authors: <strong style="color:#000000;">Seunghoon Woo</strong>, Hyunji Hong, Eunjin Choi, Heejo Lee
         conference: 31st USENIX Security Symposium (Security 2022)
         rate: N/A
-        paperlink: nopaper.pdf
+        paperlink: SECURITY22.pdf
         slide: 
-        code: 
+        code: https://github.com/wooseunghoon/MOVERY-public
         article1:
         article2:
         type: conference
