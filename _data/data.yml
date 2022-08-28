@@ -57,44 +57,44 @@ sidebar:
         sub:
 
 speeches:
+    - role: "Identifying Open-Source Software Components and Detecting Vulnerabilities"
+      details: Talk at IoTcube Conference (Aug 2022)
+      presentation:
+
+    - role: "MOVERY: A Precise Approach for Modified Vulnerable Code Clone Discovery from Modified Open-Source Software Components"
+      details: Paper presentation at 31st USENIX Security Symposium (Aug 2022)
+      presentation: 
+
     - role: "Open Source Vulnerability Detection for Supply Chain Security"
-      company: Jul 2022
-      details: Supply Chain Security Workshop 2022
+      details: Supply Chain Security Workshop (Jul 2022)
       presentation: https://www.youtube.com/watch?v=dEwHPXXL8Hg&t=14370s
 
     - role: "Analysis of Reused Open-Source Software Components for Software Bill of Materials"
-      company: Aug 2021
-      details: Talk at IoTcube Conference 2021
+      details: Talk at IoTcube Conference (Aug 2021)
       presentation: 
 
     - role: "V0Finder: Discovering the Correct Origin of Publicly Reported Software Vulnerabilities"
-      company: Aug 2021
-      details: Paper presentation at 30th USENIX Security Symposium
+      details: Paper presentation at 30th USENIX Security Symposium (Aug 2021)
       presentation: https://www.youtube.com/watch?v=u3fMFiIrVvs
       
     - role: "CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse"
-      company: May 2021
-      details: Paper presentation at 43rd International Conference on Software Engineering
+      details: Paper presentation at 43rd International Conference on Software Engineering (May 2021)
       presentation: https://www.youtube.com/watch?v=eUewmQg0JK8
     
     - role: "Verification Technology for Open-Source Software Security"
-      company: Nov 2020
-      details: Talk at KIISC Online Short Course about System Reverse Engineering and Vulnerability Analysis
+      details: Talk at KIISC Online Short Course about System Reverse Engineering and Vulnerability Analysis (Nov 2020)
       presentation: 
 
     - role: "Automatic Vulnerability Analysis Framework Applied to LA Smart City Projects"
-      company: Aug 2019
-      details: Talk at IoTcube Conference 2019
+      details: Talk at IoTcube Conference (Aug 2019)
       presentation: 
 
     - role: "Identifying Constituent OSS in Software through Code Similarity Detection"
-      company: Jan 2018
-      details: Research presentation at 10th Workshop among Asian Information Security Labs
+      details: Research presentation at 10th Workshop among Asian Information Security Labs (Jan 2018)
       presentation: 
         
     - role: "IoTcube: an automated analysis platform for finding security vulnerabilities"
-      company: May 2017
-      details: Poster presentation at 38th IEEE Symposium on Security and Privacy
+      details: Poster presentation at 38th IEEE Symposium on Security and Privacy (May 2017)
       presentation: 
 
 contributions:
