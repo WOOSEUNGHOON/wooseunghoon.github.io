@@ -399,24 +399,25 @@ publications:
       
 
     papers:
-      - title: "xVDB: A High-Coverage Approach for Constructing a Vulnerability Database (TO APPEAR)"
+      - title: "xVDB: A High-Coverage Approach for Constructing a Vulnerability Database"
         authors: Hyunji Hong, <strong style="color:#000000;">Seunghoon Woo</strong>, Eunjin Choi, Jihyun Choi, Heejo Lee
         conference: IEEE ACCESS (2022, IF:3.476)
         rate: N/A
-        paperlink: nopaper.pdf
+        paperlink: ACCESS22.pdf
+        link: https://ieeexplore.ieee.org/document/9853545
         slide: 
         code: 
         article1:
         article2:
         type: journal
 
-      - title: "MOVERY: A Precise Approach for Modified Vulnerable Code Clone Discovery from Modified Open-Source Software Components (TO APPEAR)"
+      - title: "MOVERY: A Precise Approach for Modified Vulnerable Code Clone Discovery from Modified Open-Source Software Components"
         authors: <strong style="color:#000000;">Seunghoon Woo</strong>, Hyunji Hong, Eunjin Choi, Heejo Lee
         conference: 31st USENIX Security Symposium (Security 2022)
-        rate: N/A
-        paperlink: nopaper.pdf
-        slide: 
-        code: 
+        rate: 18.0%
+        paperlink: SECURITY22.pdf
+        slide: MOVERY_SECURITY22_presentation.pdf
+        code: https://github.com/wooseunghoon/MOVERY-public
         article1:
         article2:
         type: conference
