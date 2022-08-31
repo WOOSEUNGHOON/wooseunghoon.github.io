@@ -399,6 +399,18 @@ publications:
       
 
     papers:
+      - title: "CIRCUIT: A JavaScript Memory Heap-Based Approach for Precisely Detecting Cryptojacking Websites (TO APPEAR)"
+        authors: <strong style="color:#000000;">Seunghoon Woo</strong>*, Hyunji Hong*, Sunghan Park*, Jeongwook Lee, Heejo Lee (* contributed equally)
+        conference: IEEE ACCESS (2022, IF:3.476)
+        rate: N/A
+        paperlink: nopaper.pdf
+        link: 
+        slide: 
+        code: 
+        article1:
+        article2:
+        type: journal
+
       - title: "xVDB: A High-Coverage Approach for Constructing a Vulnerability Database"
         authors: Hyunji Hong, <strong style="color:#000000;">Seunghoon Woo</strong>, Eunjin Choi, Jihyun Choi, Heejo Lee
         conference: IEEE ACCESS (2022, IF:3.476)
