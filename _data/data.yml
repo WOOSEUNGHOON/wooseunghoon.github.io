@@ -297,10 +297,10 @@ experiences:
       company: Research Professor
       details: Researching open-source software security & participating in the automated SBOM generation project.
 
-    - role: IOTCUBE Inc.
+    - role: LABRADOR LABS Inc.
       time: May 2022 - Present
       company: Chief Scientist
-      details: Improving an automated software vulnerability assessment tool (https://iotcube.com).
+      details: Improving an automated software vulnerability assessment tool (https://labradorlabs.ai).
 
     - role: Center for Software Security and Assurance
       time: Mar 2016 - Aug 2022
@@ -399,7 +399,7 @@ publications:
       
 
     papers:
-      - title: "CIRCUIT: A JavaScript Memory Heap-Based Approach for Precisely Detecting Cryptojacking Websites (TO APPEAR)"
+      - title: "CIRCUIT: A JavaScript Memory Heap-Based Approach for Precisely Detecting Cryptojacking Websites"
         authors: <strong style="color:#000000;">Seunghoon Woo</strong>*, Hyunji Hong*, Sunghan Park*, Jeongwook Lee, Heejo Lee (* contributed equally)
         conference: IEEE ACCESS (2022, IF:3.476)
         rate: N/A
