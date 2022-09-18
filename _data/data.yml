@@ -403,8 +403,8 @@ publications:
         authors: <strong style="color:#000000;">Seunghoon Woo</strong>*, Hyunji Hong*, Sunghan Park*, Jeongwook Lee, Heejo Lee (* contributed equally)
         conference: IEEE ACCESS (2022, IF:3.476)
         rate: N/A
-        paperlink: nopaper.pdf
-        link: 
+        paperlink: ACCESS22_circuit.pdf
+        link: https://ieeexplore.ieee.org/document/9878335
         slide: 
         code: 
         article1:
@@ -415,7 +415,7 @@ publications:
         authors: Hyunji Hong, <strong style="color:#000000;">Seunghoon Woo</strong>, Eunjin Choi, Jihyun Choi, Heejo Lee
         conference: IEEE ACCESS (2022, IF:3.476)
         rate: N/A
-        paperlink: ACCESS22.pdf
+        paperlink: ACCESS22_xvdb.pdf
         link: https://ieeexplore.ieee.org/document/9853545
         slide: 
         code: 
