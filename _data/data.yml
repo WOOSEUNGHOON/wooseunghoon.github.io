@@ -63,7 +63,7 @@ speeches:
 
     - role: "MOVERY: A Precise Approach for Modified Vulnerable Code Clone Discovery from Modified Open-Source Software Components"
       details: Paper presentation at 31st USENIX Security Symposium (Aug 2022)
-      presentation: 
+      presentation: https://www.youtube.com/watch?v=GyjTgR497Qs
 
     - role: "Open Source Vulnerability Detection for Supply Chain Security"
       details: Supply Chain Security Workshop (Jul 2022)
