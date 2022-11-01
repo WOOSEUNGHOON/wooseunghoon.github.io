@@ -302,25 +302,25 @@ experiences:
       company: Chief Scientist
       details: Improving an automated software vulnerability assessment tool (https://labradorlabs.ai).
 
-    - role: Center for Software Security and Assurance
-      time: Mar 2016 - Aug 2022
-      company: Researcher & Developer
-      details: Developed an automated software vulnerable-code clone detection tool (https://iotcube.net).
-
     - role: National University of Singapore
       time: Jan 2017 - Feb 2017 
       company: "Research Intern (Advisor: Prof. Minsuk Kang)"
       details: Developed a basic DDoS attack simulation tool.
+      
+    - role: Center for Software Security and Assurance
+      time: Mar 2016 - Aug 2022
+      company: Researcher & Developer
+      details: Developed an automated software vulnerable-code clone detection tool (https://iotcube.net).
     
-    - role: DoDotDo (startup) 
-      time: Dec 2014 - Sep 2015
-      company: Core developer
-      details: Developed a smart watch-based hotel management system.
-
     - role: The State University of New York (Korea campus), Songdo, Incheon
       time: Jun 2015 - Aug 2015
       company: Student intern
       details: Student internship project to study computer science and IT startups.
+
+    - role: DoDotDo (startup) 
+      time: Dec 2014 - Sep 2015
+      company: Core developer
+      details: Developed a smart watch-based hotel management system.
 
     - role: Samsung Electronics, Suwon, Korea 
       time: Jun 2014 - Feb 2016
