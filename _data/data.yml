@@ -127,15 +127,14 @@ patents:
   intro: |
     
   papers:
+    - title: "METHOD FOR IDENTIFYING OPEN-SOURCE SOFTWARE COMPONENTS AT THE SOURCE-CODE LEVEL"
+      authors: Heejo Lee, Seunghoon Woo (KR Registration, 10-2476358, Dec 2022)
     - title: "Structured Software Vulnerability Database Information Expression for Vulnerability Detection and Resolution"
       authors: Heejo Lee, Seunghoon Woo, Hyunji Hong, Choonsik Park, Yunseong Choi (TTAK.KO-12.0384, Jun 2022)
     - title: "METHOD FOR IDENTIFYING OPEN-SOURCE SOFTWARE COMPONENTS AT THE SOURCE-CODE LEVEL"
-      authors: Heejo Lee, Seunghoon Woo (US 17525126, Nov 2021)
+      authors: Heejo Lee, Seunghoon Woo (US Application, 17525126, Nov 2021)
     - title: "METHOD FOR IDENTIFYING OPEN-SOURCE SOFTWARE COMPONENTS AT THE SOURCE-CODE LEVEL"
-      authors: Heejo Lee, Seunghoon Woo (EU EP21202849.2, Oct 2021)
-    - title: "METHOD FOR IDENTIFYING OPEN-SOURCE SOFTWARE COMPONENTS AT THE SOURCE-CODE LEVEL"
-      authors: Heejo Lee, Seunghoon Woo (KR 10-2021-0010585, Jan 2021)
-
+      authors: Heejo Lee, Seunghoon Woo (EU Application, EP21202849.2, Oct 2021)
 
 career-profile:
     title: Career-profile
