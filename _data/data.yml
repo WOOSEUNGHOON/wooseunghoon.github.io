@@ -59,7 +59,7 @@ sidebar:
 speeches:
     - role: "Vulnerabilities and Security in Blockchain Software"
       details: Talk at Blockchain Grand Week (Dec 2022)
-      presentation:
+      presentation: https://www.youtube.com/watch?v=D11hRv-hyrQ
 
     - role: "Vulnerabilities and Security in Open-Source Software"
       details: Talk at UNIST (Dec 2022)
