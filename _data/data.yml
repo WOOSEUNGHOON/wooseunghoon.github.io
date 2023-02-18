@@ -410,6 +410,17 @@ publications:
       
 
     papers:
+      - title: "V1SCAN: Discovering 1-day Vulnerabilities in Reused C/C++ Open-source Software Components Using Code Classification Techniques (accepted)"
+        authors: <strong style="color:#000000;">Seunghoon Woo</strong>, Eunjin Choi, Heejo Lee, Hakjoo Oh
+        conference: 32nd USENIX Security Symposium (Security 2023)
+        rate: N/A
+        paperlink: 
+        slide: 
+        code: 
+        article1: 
+        article2: 
+        type: conference
+
       - title: "CIRCUIT: A JavaScript Memory Heap-Based Approach for Precisely Detecting Cryptojacking Websites"
         authors: <strong style="color:#000000;">Seunghoon Woo</strong>*, Hyunji Hong*, Sunghan Park*, Jeongwook Lee, Heejo Lee (* contributed equally)
         conference: IEEE ACCESS (2022, IF:3.476)
