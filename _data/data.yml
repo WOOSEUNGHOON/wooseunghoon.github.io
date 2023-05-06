@@ -35,14 +35,6 @@ sidebar:
       - ID: CVE-2020-35376
         with: with Seongkyeong Kwon
 
-    languages:
-      - idiom: English
-        level: ●●●○○
-
-      - idiom: Korean
-        level: ●●●●●
-
-
     interests:
       - item: Open-source Software Security
         sub:
