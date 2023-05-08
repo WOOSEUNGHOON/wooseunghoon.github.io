@@ -1,0 +1,22 @@
+name: Manual build
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v2
+    - name: Install dependencies
+      run: |
+        bundle config path vendor/bundle
+        bundle install
+    - name: Build site
+      run: bundle exec jekyll build
+    - name: Upload artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: built-site
+        path: _site
