@@ -16,7 +16,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7.x # 필요한 Ruby 버전을 입력하세요.
+          ruby-version: 3.2.2 # 필요한 Ruby 버전을 입력하세요.
 
       - name: Install Jekyll
         run: gem install jekyll bundler
