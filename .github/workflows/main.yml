@@ -6,17 +6,26 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v2
-    - name: Install dependencies
-      run: |
-        bundle config path vendor/bundle
-        bundle install
-    - name: Build site
-      run: bundle exec jekyll build
-    - name: Upload artifact
-      uses: actions/upload-artifact@v2
-      with:
-        name: built-site
-        path: _site
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7.0
+
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install
+
+      - name: Build
+        run: bundle exec jekyll build --destination=./build
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: build
+          path: ./build
