@@ -402,6 +402,18 @@ publications:
       
 
     papers:
+      - title: "ZMAD: Lightweight Model-based Anomaly Detection for the Structured Z-Wave Protocol (accepted)"
+        authors: Carlos Nkuba Kayembe, <strong style="color:#000000;">Seunghoon Woo</strong>, Heejo Lee, Sven Dietrich 
+        conference: IEEE ACCESS (2023, IF:3.476)
+        rate: N/A
+        paperlink: 
+        link: 
+        slide: 
+        code: 
+        article1:
+        article2:
+        type: journal
+
       - title: "V1SCAN: Discovering 1-day Vulnerabilities in Reused C/C++ Open-source Software Components Using Code Classification Techniques (accepted)"
         authors: <strong style="color:#000000;">Seunghoon Woo</strong>, Eunjin Choi, Heejo Lee, Hakjoo Oh
         conference: 32nd USENIX Security Symposium (Security 2023)
