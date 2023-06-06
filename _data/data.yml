@@ -22,15 +22,15 @@ sidebar:
     gitlab:
     scholar: YES
     bitbucket:
-    twitter: 
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    
+
     cves:
       - ID: CVE-2020-14147
         with:
-      - ID: CVE-2020-20412 
+      - ID: CVE-2020-20412
         with: with Seongkyeong Kwon
       - ID: CVE-2020-35376
         with: with Seongkyeong Kwon
@@ -71,36 +71,36 @@ speeches:
 
     - role: "Analysis of Reused Open-Source Software Components for Software Bill of Materials"
       details: Talk at IoTcube Conference (Aug 2021)
-      presentation: 
+      presentation:
 
     - role: "V0Finder: Discovering the Correct Origin of Publicly Reported Software Vulnerabilities"
       details: Paper presentation at 30th USENIX Security Symposium (Aug 2021)
       presentation: https://www.youtube.com/watch?v=u3fMFiIrVvs
-      
+
     - role: "CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse"
       details: Paper presentation at 43rd International Conference on Software Engineering (May 2021)
       presentation: https://www.youtube.com/watch?v=eUewmQg0JK8
-    
+
     - role: "Verification Technology for Open-Source Software Security"
       details: Talk at KIISC Online Short Course about System Reverse Engineering and Vulnerability Analysis (Nov 2020)
-      presentation: 
+      presentation:
 
     - role: "Automatic Vulnerability Analysis Framework Applied to LA Smart City Projects"
       details: Talk at IoTcube Conference (Aug 2019)
-      presentation: 
+      presentation:
 
     - role: "Identifying Constituent OSS in Software through Code Similarity Detection"
       details: Research presentation at 10th Workshop among Asian Information Security Labs (Jan 2018)
-      presentation: 
-        
+      presentation:
+
     - role: "IoTcube: an automated analysis platform for finding security vulnerabilities"
       details: Poster presentation at 38th IEEE Symposium on Security and Privacy (May 2017)
-      presentation: 
+      presentation:
 
 contributions:
   title: Open-Source Contributions
   intro: |
-    
+
 
   papers:
     - title: Apple (Fixing Security Vulnerabilities) - with Haram Park
@@ -108,7 +108,7 @@ contributions:
 
     - title: Xpdf (Fixing Security Vulnerabilities) - with Seongkyeong Kwon
       authors: Detected a stack consumption vulnerability in XPDF (https://www.xpdfreader.com)
-      
+
     - title: Stepmania (Fixing Security Vulnerabilities) - with Seongkyeong Kwon
       authors: Detected a vulnerability related to improper validation of array index in Stepmania (https://github.com/stepmania/stepmania)
 
@@ -125,7 +125,7 @@ contributions:
 patents:
   title: Patents/Standards
   intro: |
-    
+
   papers:
     - title: "METHOD FOR IDENTIFYING OPEN-SOURCE SOFTWARE COMPONENTS AT THE SOURCE-CODE LEVEL"
       authors: Heejo Lee, Seunghoon Woo (KR Registration, 10-2476358, Dec 2022)
@@ -139,15 +139,15 @@ patents:
 career-profile:
     title: Career-profile
     summary: |
-      Currently full-time Applied Scientist at AWS. After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
+      Currently full-time Applied Scientist at AWS. After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy),
       I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image processing under the supervision of Bjoern Ommer.
       Lately I successfully completed an internship at AWS in Pasadena under the supervision of Pietro Perona.
 
 news:
     title: News
     intro: |
-        
-    
+
+
     posts:
         - time: December 2020
           title: Defending my PhD Thesis. Magna cum Laude
@@ -160,34 +160,34 @@ news:
 
         - time: June 2020
           title: Article on Amazon Science https://www.amazon.science/blog/video-classifiers-learn-to-recognize-actions-they've-never-seen
-        
+
         - time: February 2020
           title: The work done during my internship was accepted as publication at CVPR 2020
-          
+
         - time: July 2019
           title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
-          
+
         - time: July 2019
           title: One paper accepted at ICCV19
-          
+
         - time: January 2019
           title: Selected as reviewer for ICCV19
-        
+
         - time: December 2018
           title: Selected as reviewer for CVPR19
-        
+
         - time: Sptember 2018
           title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
-        
+
         - time: July 2018
           title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
-        
+
         - time: 2018
           title: Paper accepted as poster at ECCV18 in Munich, Germany
-        
+
         - time: 2017
           title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
-        
+
         - time: 2017
           title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
 
@@ -198,7 +198,7 @@ thesis:
       university: Korea University
       time: Aug 2022
       details: "Advisor: Prof. Heejo Lee"
-      
+
 
 education:
     - degree: M.S & Ph.D Integrated Course in Computer & Communication Security Laboratory
@@ -206,11 +206,11 @@ education:
       time: Sep 2016 - Aug 2022
       details: "Cumulative GPA: 4.45/4.5"
       
-    - degree: Bachelor of Computer Science and Engineering
+    - degree: Bachelor of Computer Science and Engineering (Great Honor)
       university: Korea University
       time: Mar 2010 - Feb 2016
       details: "Cumulative GPA: 4.22/4.5"
-     
+
     # - degree: PhD in Computer vision and Machine learning
     #   university: Heidelberg University
     #   time: 2015 - 2020
@@ -225,12 +225,12 @@ education:
     #   university: KTH (Stockholm, Sweden)
     #   time: 2013 - 2015
     #   details: |
-    
+
     # - degree: Master Degree
     #   university: Politecnico di Torino (Torino, Italy)
     #   time: 2012 - 2015
     #   details: |
-    
+
     # - degree: Bachelor Degree
     #   university: Politecnico di Torino (Torino, Italy)
     #   time: 2009 - 2012
@@ -242,7 +242,7 @@ education:
 #       university: Germany
 #       time: 2020 Oct - current
 #       details: |
-      
+
 #     - degree: Applied Scientists Intern at AWS
 #       university: P. Perona, Pasadena, CA, USA
 #       time: 2019 July - Dec
@@ -262,7 +262,7 @@ education:
 #       university: Tobii
 #       time: 2014 - 2015
 #       details: |
-#         Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+#         Master thesis topic Hand gesture classification by Deep learning using infrared camera
 
 #           - Deep learning
 #           - Hand Gesture
@@ -276,13 +276,13 @@ education:
 #           - Artificial Intelligence
 #           - Machine Learning
 #           - Computer Vision
-    
+
 #     - degree: Master Degree
 #       university: Politecnico di Torino (Torino, Italy)
 #       time: 2012 - 2015
 #       details: |
 #         Master degree in Software Engineering
-    
+
 #     - degree: Bachelor Degree
 #       university: Politecnico di Torino (Torino, Italy)
 #       time: 2009 - 2012
@@ -302,31 +302,31 @@ experiences:
       details: Improving an automated software vulnerability assessment tool (https://labradorlabs.ai).
 
     - role: National University of Singapore
-      time: Jan 2017 - Feb 2017 
+      time: Jan 2017 - Feb 2017
       company: "Research Intern (Advisor: Prof. Minsuk Kang)"
       details: Developed a basic DDoS attack simulation tool.
-      
+
     - role: Center for Software Security and Assurance
       time: Mar 2016 - Aug 2022
       company: Researcher & Developer
       details: Developed an automated software vulnerable-code clone detection tool (https://iotcube.net).
-    
+
     - role: The State University of New York (Korea campus), Songdo, Incheon
       time: Jun 2015 - Aug 2015
       company: Student intern
       details: Student internship project to study computer science and IT startups.
 
-    - role: DoDotDo (startup) 
+    - role: DoDotDo (startup)
       time: Dec 2014 - Sep 2015
       company: Core developer
       details: Developed a smart watch-based hotel management system.
 
-    - role: Samsung Electronics, Suwon, Korea 
+    - role: Samsung Electronics, Suwon, Korea
       time: Jun 2014 - Feb 2016
       company: Student intern (Jun 2014 - Aug 2014) and Engineer (Dec 2015 - Feb 2016)
       details: Developed a multi-platformed application supporting the connection between Smart TV and other devices (i.e., smartphone).
 
-   
+
 
 
 
@@ -341,12 +341,12 @@ experiences:
     #   company: "National University of Singapore (Supervisor: Prof. Minsuk Kang), Singapore"
     #   details: |
     #     - Developed a basic DDoS attack simulation tool.
-    
+
     # - role: Engineer
     #   time: Dec 2015 - Feb 2016
     #   company: Samsung Electronics, Suwon, Korea
     #   details: |
-    #     - Worked on improving the Android application that supports communication between Smart TV and Smartphone. 
+    #     - Worked on improving the Android application that supports communication between Smart TV and Smartphone.
 
     # - role: Core developer
     #   time: 2015 Jan - 2015 Sep
@@ -361,7 +361,7 @@ experiences:
     #     - Developed a multi-platformed application supporting the connection between Smart TV and other devices (i.e., smartphone).
 
 
-  
+
 
 
 projects:
@@ -371,7 +371,7 @@ projects:
     assignments:
       - title: Development of Automated Vulnerability Discovery Technologies for Blockchain Platform Security (*2022 IITP outstanding performance project)
         time: Project Manager & Researcher & Developer (Jun 2019 - Present)
-        role: International Joint Research     
+        role: International Joint Research
 
       - title: "The Intelligent IoT Integrator (I3): LA Smart City Project"
         time: Researcher & Developer (Nov 2017 - Present)
@@ -379,11 +379,11 @@ projects:
 
       - title: A Study on Verifying Open-Source Software Reliability for Reinforcing Operating System Security
         time: Researcher (Apr 2020 - Oct 2020)
-        role: 
+        role:
 
       - title: Development of DNS-based lightweight framework for automatic response to abnormal network behavior
         time: Researcher & Developer (May 2018 - Oct 2018)
-        role: 
+        role:
 
       - title: "NICOP-Smokescreen : A study of a DDoS-resilient Network Architecture through Traffic Classification and Isolation"
         time: Project Manager (Sep 2017 - Sep 2019)
@@ -391,7 +391,7 @@ projects:
 
       - title: Development of Vulnerability Discovery Technologies for IoT Software Security
         time: Researcher & Developer (Feb 2016 - May 2018)
-        role: International Joint Research     
+        role: International Joint Research
 
 
 
@@ -399,17 +399,17 @@ projects:
 publications:
     title: Publications
     intro: |
-      
+
 
     papers:
       - title: "ZMAD: Lightweight Model-based Anomaly Detection for the Structured Z-Wave Protocol (accepted)"
-        authors: Carlos Nkuba Kayembe, <strong style="color:#000000;">Seunghoon Woo</strong>, Heejo Lee, Sven Dietrich 
+        authors: Carlos Nkuba Kayembe, <strong style="color:#000000;">Seunghoon Woo</strong>, Heejo Lee, Sven Dietrich
         conference: IEEE ACCESS (2023, IF:3.476)
         rate: N/A
-        paperlink: 
-        link: 
-        slide: 
-        code: 
+        paperlink:
+        link:
+        slide:
+        code:
         article1:
         article2:
         type: journal
@@ -418,11 +418,11 @@ publications:
         authors: <strong style="color:#000000;">Seunghoon Woo</strong>, Eunjin Choi, Heejo Lee, Hakjoo Oh
         conference: 32nd USENIX Security Symposium (Security 2023)
         rate: N/A
-        paperlink: 
-        slide: 
-        code: 
-        article1: 
-        article2: 
+        paperlink:
+        slide:
+        code:
+        article1:
+        article2:
         type: conference
 
       - title: "CIRCUIT: A JavaScript Memory Heap-Based Approach for Precisely Detecting Cryptojacking Websites"
@@ -431,8 +431,8 @@ publications:
         rate: N/A
         paperlink: ACCESS22_circuit.pdf
         link: https://ieeexplore.ieee.org/document/9878335
-        slide: 
-        code: 
+        slide:
+        code:
         article1:
         article2:
         type: journal
@@ -443,8 +443,8 @@ publications:
         rate: N/A
         paperlink: ACCESS22_xvdb.pdf
         link: https://ieeexplore.ieee.org/document/9853545
-        slide: 
-        code: 
+        slide:
+        code:
         article1:
         article2:
         type: journal
@@ -531,13 +531,13 @@ publications:
         conference: 38th IEEE Symposium on Poster presented at Security and Privacy (S&P Poster 2017)
         rate: N/A
         paperlink: SNP17_Poster.pdf
-        slide: 
+        slide:
         code:
         article1:
         article2:
         type: poster
 
-          
+
 
 skills:
     title: Skills &amp; Proficiency
