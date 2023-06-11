@@ -48,7 +48,17 @@ sidebar:
       - item: Vulnerability Detection
         sub:
 
+reviews:
+    - role: ACM Transactions on Software Engineering and Methodology (2023)
+    - role: Software: Practice and Experience (2023)
+    - role: IEEE Transactions on Vehicular Technology (2022)
+    - role: Journal of Communications and Networks (2021)
+
 speeches:
+    - role: "Discovering Open-source Software Vulnerabilities for Supply Chain Security"
+      details: NetSec-KR (Apr 2023)
+      presentation:
+
     - role: "Vulnerabilities and Security in Blockchain Software"
       details: Talk at Blockchain Grand Week (Dec 2022)
       presentation: https://www.youtube.com/watch?v=D11hRv-hyrQ
@@ -205,7 +215,7 @@ education:
       university: Korea University
       time: Sep 2016 - Aug 2022
       details: "Cumulative GPA: 4.45/4.5"
-      
+
     - degree: Bachelor of Computer Science and Engineering (Great Honor)
       university: Korea University
       time: Mar 2010 - Feb 2016
@@ -526,6 +536,39 @@ publications:
         article2: http://www.veritas-a.com/news/articleView.html?idxno=83064
         type: conference
 
+      - title: "Blockchain Security Threats and Analysis in the Web 3.0 Era"
+        authors: <strong style="color:#000000;">Seunghoon Woo</strong>, Geonwoo Lee, Taejun Lee, Yunseong Choi, Heejo Lee, Kyeongsik Min, Jinsang Park
+        conference: KISA INSIGHT (2023)
+        rate: N/A
+        paperlink:
+        slide:
+        code:
+        article1:
+        article2:
+        type: poster
+
+      - title: "Trends in Open-source Software Vulnerability Analysis and Detection Technology"
+        authors: <strong style="color:#000000;">Seunghoon Woo</strong>, Hyunji Hong, Heejo Lee
+        conference: OSIA Standards & Technology Review (2022)
+        rate: N/A
+        paperlink:
+        slide:
+        code:
+        article1:
+        article2:
+        type: poster
+
+      - title: "Open-source Software Vulnerability Detection Techniques for Enhancing Supply Chain Security"
+        authors: Hyunji Hong, <strong style="color:#000000;">Seunghoon Woo</strong>, Heejo Lee
+        conference: Review of KIISC (2022)
+        rate: N/A
+        paperlink:
+        slide:
+        code:
+        article1:
+        article2:
+        type: poster
+
       - title: "Poster: IoTcube: an automated analysis platform for finding security vulnerabilities"
         authors: Seulbae Kim, <strong style="color:#000000;">Seunghoon Woo</strong>, Heejo Lee, Hakjoo Oh
         conference: 38th IEEE Symposium on Poster presented at Security and Privacy (S&P Poster 2017)
@@ -536,6 +579,8 @@ publications:
         article1:
         article2:
         type: poster
+
+
 
 
 
