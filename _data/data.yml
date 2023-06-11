@@ -50,10 +50,17 @@ sidebar:
 
 reviews:
     - role: ACM Transactions on Software Engineering and Methodology (2023)
-    - role: Software: Practice and Experience (2023)
-    - role: IEEE Transactions on Vehicular Technology (2022)
-    - role: Journal of Communications and Networks (2021)
+      details:
 
+    - role: Software: Practice and Experience (2023)
+      details:
+
+    - role: IEEE Transactions on Vehicular Technology (2022)
+      details:
+
+    - role: Journal of Communications and Networks (2021)
+      details:
+        
 speeches:
     - role: "Discovering Open-source Software Vulnerabilities for Supply Chain Security"
       details: NetSec-KR (Apr 2023)
