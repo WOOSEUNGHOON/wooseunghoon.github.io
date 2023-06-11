@@ -1,5 +1,5 @@
-{% assign speeches = site.data.data.speeches %}
-{% if speeches %}
+{% assign reviews = site.data.data.reviews %}
+{% if reviews %}
 <section class="section speeches-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
@@ -9,13 +9,13 @@
     External Reivewers
   </h2>
 
-  {% for speech in speeches %}
+  {% for review in reviews %}
   <div class="item" style="margin-bottom: 20px;">
 
     <div class="meta">
 
       <div class="upper-row">
-        <h3 class="job-title">{{ speech.role }}</h3>
+        <h3 class="job-title">{{ review.role }}</h3>
         <!--<div class="time">{{ speech.time }}</div>-->
       </div><!--//upper-row-->
       <!--<div class="company">{{ speech.company }}</div>-->
