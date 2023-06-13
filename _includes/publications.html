@@ -63,7 +63,9 @@
       <div class="publication-conference" style="color:#3F4650;">
         [acceptance rate: {{ publication.rate }}]
         <!--<a href = "{{ publication.paperlink }}">[paper]</a>-->
+        {% if publication.paperlink %}
         <a href = "{{ site.baseurl }}/assets/papers/{{ publication.paperlink }}" style="color:#3F4650;">[paper]</a>
+        {% endif %}
         {% if publication.slide %}
         <a href = "{{ site.baseurl }}/assets/presentations/{{ publication.slide }}" style="color:#3F4650;">[slide]</a>
         {% endif %}
@@ -98,7 +100,9 @@
       <div class="publication-conference" style="color:#3F4650;">
         [acceptance rate: {{ publication.rate }}]
         <!--<a href = "{{ publication.paperlink }}">[paper]</a>-->
+        {% if publication.paperlink %}
         <a href = "{{ site.baseurl }}/assets/papers/{{ publication.paperlink }}" style="color:#3F4650;">[paper]</a>
+        {% endif %}
         {% if publication.slide %}
         <a href = "{{ site.baseurl }}/assets/presentations/{{ publication.slide }}" style="color:#3F4650;">[slide]</a>
         {% endif %}
