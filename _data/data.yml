@@ -308,40 +308,45 @@ education:
 
 
 experiences:
-    - role: Center for Software Security and Assurance
-      time: Sep 2022 - Present
-      company: Research Professor
-      details: Researching open-source software security & participating in the automated SBOM generation project.
+    - role: Korea University
+      time: Sep 2023 - Present
+      company: Assitant Professor
+      details: 
 
     - role: LABRADOR LABS Inc.
       time: May 2022 - Present
-      company: Chief Scientist
-      details: Improving an automated software vulnerability assessment tool (https://labradorlabs.ai).
+      company: "Chief Scientist (https://labradorlabs.ai)"
+      details: 
+
+    - role: Center for Software Security and Assurance
+      time: Sep 2022 - Aug 2023
+      company: Research Professor
+      details: 
 
     - role: National University of Singapore
       time: Jan 2017 - Feb 2017
       company: "Research Intern (Advisor: Prof. Minsuk Kang)"
-      details: Developed a basic DDoS attack simulation tool.
+      details: 
 
     - role: Center for Software Security and Assurance
       time: Mar 2016 - Aug 2022
       company: Researcher & Developer
-      details: Developed an automated software vulnerable-code clone detection tool (https://iotcube.net).
+      details: 
 
     - role: The State University of New York (Korea campus), Songdo, Incheon
       time: Jun 2015 - Aug 2015
       company: Student intern
-      details: Student internship project to study computer science and IT startups.
+      details:
 
     - role: DoDotDo (startup)
       time: Dec 2014 - Sep 2015
       company: Core developer
-      details: Developed a smart watch-based hotel management system.
+      details: 
 
     - role: Samsung Electronics, Suwon, Korea
       time: Jun 2014 - Feb 2016
       company: Student intern (Jun 2014 - Aug 2014) and Engineer (Dec 2015 - Feb 2016)
-      details: Developed a multi-platformed application supporting the connection between Smart TV and other devices (i.e., smartphone).
+      details:
 
 
 
